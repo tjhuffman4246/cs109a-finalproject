@@ -1,0 +1,487 @@
+state_district,R_win_pct
+Alabama1,1.0
+Alabama2,1.0
+Alabama3,0.375
+Alabama4,0.375
+Alabama5,0.0
+Alabama6,0.6875
+Alabama7,0.0
+Alaska0,1.0
+Arizona1,0.9375
+Arizona2,0.1875
+Arizona3,0.8125
+Arizona4,0.8125
+Arizona5,0.8461538461538461
+Arizona6,0.875
+Arizona7,0.0
+Arizona8,0.6666666666666666
+Arkansas1,0.0
+Arkansas2,0.1875
+Arkansas3,1.0
+Arkansas4,0.25
+California1,0.25
+California10,0.125
+California11,0.4375
+California12,0.5
+California13,0.0
+California14,0.4375
+California15,0.125
+California16,0.0
+California17,0.375
+California18,0.1875
+California19,0.9375
+California2,1.0
+California20,0.5
+California21,0.875
+California22,0.8125
+California23,0.3125
+California24,0.1875
+California25,0.5
+California26,0.375
+California27,0.4375
+California28,0.3125
+California29,0.0
+California3,0.3125
+California30,0.0
+California31,0.0
+California32,0.0
+California33,0.5
+California34,0.125
+California35,0.375
+California36,0.0625
+California37,0.5
+California38,0.5625
+California39,0.8125
+California4,0.5
+California40,1.0
+California41,1.0
+California42,0.5625
+California43,0.8125
+California44,0.6923076923076923
+California45,1.0
+California46,0.625
+California47,0.625
+California48,1.0
+California49,0.75
+California5,0.0
+California50,0.375
+California51,0.625
+California52,1.0
+California53,0.0
+California6,0.0
+California7,0.0
+California8,0.0
+California9,0.0
+Colorado1,0.0
+Colorado2,0.0
+Colorado3,0.4375
+Colorado4,1.0
+Colorado5,1.0
+Colorado6,0.9230769230769231
+Colorado7,0.6666666666666666
+Connecticut1,0.0
+Connecticut2,0.1875
+Connecticut3,0.0625
+Connecticut4,1.0
+Connecticut5,0.5625
+Connecticut6,0.7692307692307693
+Delaware0,0.6875
+Florida1,0.4375
+Florida10,0.9375
+Florida11,0.0
+Florida12,0.9375
+Florida13,0.8125
+Florida14,0.5
+Florida15,0.75
+Florida16,0.5384615384615384
+Florida17,0.0
+Florida18,0.6923076923076923
+Florida19,0.0
+Florida2,0.0
+Florida20,0.0
+Florida21,1.0
+Florida22,0.75
+Florida23,0.0
+Florida24,1.0
+Florida25,1.0
+Florida3,0.0
+Florida4,0.625
+Florida5,0.6875
+Florida6,0.8125
+Florida7,0.5
+Florida8,0.8125
+Florida9,0.875
+Georgia1,0.5
+Georgia10,0.4375
+Georgia11,0.75
+Georgia12,0.3333333333333333
+Georgia13,0.0
+Georgia2,0.0
+Georgia3,0.375
+Georgia4,0.25
+Georgia5,0.0
+Georgia6,0.9375
+Georgia7,0.4375
+Georgia8,0.375
+Georgia9,0.375
+Hawaii1,0.125
+Hawaii2,0.0
+Idaho1,0.875
+Idaho2,0.75
+Illinois1,0.0
+Illinois10,0.875
+Illinois11,0.4375
+Illinois12,0.5
+Illinois13,1.0
+Illinois14,1.0
+Illinois15,1.0
+Illinois16,0.9375
+Illinois17,0.1875
+Illinois18,1.0
+Illinois19,0.4375
+Illinois2,0.0
+Illinois20,0.46153846153846156
+Illinois21,0.375
+Illinois22,0.25
+Illinois23,0.0
+Illinois24,0.0
+Illinois3,0.0
+Illinois4,0.375
+Illinois5,0.0625
+Illinois6,1.0
+Illinois7,0.0
+Illinois8,0.375
+Illinois9,0.0
+Indiana1,0.0
+Indiana10,0.0
+Indiana11,0.0
+Indiana2,0.375
+Indiana3,0.5
+Indiana4,0.875
+Indiana5,0.8125
+Indiana6,0.8125
+Indiana7,0.8125
+Indiana8,0.5
+Indiana9,0.0625
+Iowa1,0.9375
+Iowa2,0.875
+Iowa3,0.4375
+Iowa4,0.4375
+Iowa5,0.75
+Iowa6,0.375
+Kansas1,1.0
+Kansas2,0.5
+Kansas3,0.6875
+Kansas4,0.4375
+Kansas5,1.0
+Kentucky1,0.4375
+Kentucky2,0.4375
+Kentucky3,0.3125
+Kentucky4,0.8125
+Kentucky5,1.0
+Kentucky6,0.625
+Kentucky7,0.0
+Louisiana1,0.9375
+Louisiana2,0.0
+Louisiana3,0.375
+Louisiana4,0.5
+Louisiana5,0.4375
+Louisiana6,1.0
+Louisiana7,0.125
+Louisiana8,0.375
+Maine1,0.375
+Maine2,0.5625
+Maryland1,0.6875
+Maryland2,0.5625
+Maryland3,0.0
+Maryland4,0.3125
+Maryland5,0.0
+Maryland6,0.5
+Maryland7,0.0
+Maryland8,0.5625
+Massachusetts1,0.4375
+Massachusetts10,0.1875
+Massachusetts11,0.0
+Massachusetts12,0.0
+Massachusetts2,0.0
+Massachusetts3,0.125
+Massachusetts4,0.0
+Massachusetts5,0.0
+Massachusetts6,0.125
+Massachusetts7,0.0
+Massachusetts8,0.0
+Massachusetts9,0.0
+Michigan1,0.0
+Michigan10,0.5
+Michigan11,1.0
+Michigan12,0.0
+Michigan13,0.0
+Michigan14,0.0
+Michigan15,0.0
+Michigan16,0.0
+Michigan17,0.0
+Michigan18,0.625
+Michigan19,1.0
+Michigan2,1.0
+Michigan3,0.5625
+Michigan4,1.0
+Michigan5,0.5
+Michigan6,0.5625
+Michigan7,0.5
+Michigan8,0.3125
+Michigan9,0.6875
+Minnesota1,0.5625
+Minnesota2,0.75
+Minnesota3,0.875
+Minnesota4,0.0
+Minnesota5,0.0
+Minnesota6,0.25
+Minnesota7,0.375
+Minnesota8,0.0
+Mississippi1,0.4375
+Mississippi2,0.125
+Mississippi3,0.375
+Mississippi4,0.25
+Mississippi5,0.5384615384615384
+Missouri1,0.0
+Missouri10,0.3333333333333333
+Missouri2,0.625
+Missouri3,0.0
+Missouri4,0.0
+Missouri5,0.0
+Missouri6,0.75
+Missouri7,1.0
+Missouri8,0.8125
+Missouri9,0.375
+Montana0,0.75
+Montana1,0.0
+Montana2,1.0
+Nebraska1,1.0
+Nebraska2,0.6875
+Nebraska3,1.0
+Nevada0,0.0
+Nevada1,0.15384615384615385
+Nevada2,1.0
+Nevada3,1.0
+New Hampshire1,0.6875
+New Hampshire2,0.8125
+New Jersey1,0.0
+New Jersey10,0.0
+New Jersey11,0.75
+New Jersey12,0.6875
+New Jersey13,0.4375
+New Jersey14,0.0
+New Jersey15,0.0
+New Jersey2,0.4375
+New Jersey3,0.5
+New Jersey4,0.875
+New Jersey5,1.0
+New Jersey6,0.1875
+New Jersey7,0.875
+New Jersey8,0.0625
+New Jersey9,0.1875
+New Mexico1,1.0
+New Mexico2,0.875
+New Mexico3,0.0
+New York1,0.375
+New York10,0.0
+New York11,0.0
+New York12,0.0
+New York13,0.5
+New York14,0.3125
+New York15,0.3125
+New York16,0.0
+New York17,0.0625
+New York18,0.125
+New York19,0.4375
+New York2,0.25
+New York20,0.5
+New York21,0.3125
+New York22,0.625
+New York23,0.5625
+New York24,0.75
+New York25,0.9375
+New York26,0.6875
+New York27,0.625
+New York28,0.0
+New York29,0.625
+New York3,0.4375
+New York30,0.6923076923076923
+New York31,1.0
+New York32,0.125
+New York33,0.375
+New York34,0.75
+New York35,1.0
+New York36,0.0
+New York37,0.0
+New York38,1.0
+New York39,0.0
+New York4,0.625
+New York5,0.5
+New York6,0.0
+New York7,0.0
+New York8,0.0
+New York9,0.0
+North Carolina1,0.0
+North Carolina10,1.0
+North Carolina11,0.625
+North Carolina12,0.0
+North Carolina13,0.0
+North Carolina2,0.0625
+North Carolina3,0.4375
+North Carolina4,0.125
+North Carolina5,0.4375
+North Carolina6,0.8125
+North Carolina7,0.0
+North Carolina8,0.3125
+North Carolina9,1.0
+North Dakota0,0.125
+Ohio1,0.625
+Ohio10,0.625
+Ohio11,0.1875
+Ohio12,0.9375
+Ohio13,0.0
+Ohio14,0.1875
+Ohio15,1.0
+Ohio16,1.0
+Ohio17,0.25
+Ohio18,0.375
+Ohio19,0.46153846153846156
+Ohio2,0.8125
+Ohio20,0.0
+Ohio21,0.0
+Ohio22,0.0
+Ohio23,0.0
+Ohio3,0.25
+Ohio4,1.0
+Ohio5,1.0
+Ohio6,0.5625
+Ohio7,1.0
+Ohio8,1.0
+Ohio9,0.0625
+Oklahoma1,0.6875
+Oklahoma2,0.1875
+Oklahoma3,0.375
+Oklahoma4,0.4375
+Oklahoma5,1.0
+Oklahoma6,0.3076923076923077
+Oregon1,0.0
+Oregon2,0.875
+Oregon3,0.0
+Oregon4,0.0
+Oregon5,0.38461538461538464
+Pennsylvania1,0.0
+Pennsylvania10,0.8125
+Pennsylvania11,0.0625
+Pennsylvania12,0.0
+Pennsylvania13,0.625
+Pennsylvania14,0.0
+Pennsylvania15,0.75
+Pennsylvania16,1.0
+Pennsylvania17,0.5
+Pennsylvania18,0.3125
+Pennsylvania19,1.0
+Pennsylvania2,0.0
+Pennsylvania20,0.07692307692307693
+Pennsylvania21,0.7692307692307693
+Pennsylvania22,0.125
+Pennsylvania23,0.875
+Pennsylvania24,1.0
+Pennsylvania25,0.3333333333333333
+Pennsylvania3,0.1875
+Pennsylvania4,0.3125
+Pennsylvania5,0.9375
+Pennsylvania6,0.25
+Pennsylvania7,0.625
+Pennsylvania8,0.5
+Pennsylvania9,0.625
+Rhode Island1,0.1875
+Rhode Island2,0.3125
+South Carolina1,0.875
+South Carolina2,1.0
+South Carolina3,0.4375
+South Carolina4,0.75
+South Carolina5,0.0
+South Carolina6,0.0625
+South Dakota0,0.3076923076923077
+South Dakota1,0.3333333333333333
+South Dakota2,1.0
+Tennessee1,1.0
+Tennessee2,1.0
+Tennessee3,0.4375
+Tennessee4,0.25
+Tennessee5,0.0
+Tennessee6,0.1875
+Tennessee7,0.8125
+Tennessee8,0.0
+Tennessee9,0.0
+Texas1,0.125
+Texas10,0.125
+Texas11,0.125
+Texas12,0.375
+Texas13,0.5625
+Texas14,0.5
+Texas15,0.0
+Texas16,0.0
+Texas17,0.0
+Texas18,0.0
+Texas19,0.75
+Texas2,0.125
+Texas20,0.0
+Texas21,0.9375
+Texas22,0.9375
+Texas23,0.4375
+Texas24,0.125
+Texas25,0.0
+Texas26,0.9230769230769231
+Texas27,0.0
+Texas28,0.0
+Texas29,0.125
+Texas3,1.0
+Texas30,0.0
+Texas31,1.0
+Texas32,1.0
+Texas4,0.125
+Texas5,0.375
+Texas6,0.75
+Texas7,1.0
+Texas8,0.875
+Texas9,0.0625
+Utah1,0.875
+Utah2,0.5
+Utah3,0.7692307692307693
+Vermont0,0.4375
+Virginia1,1.0
+Virginia10,0.875
+Virginia11,0.875
+Virginia2,0.5625
+Virginia3,0.375
+Virginia4,0.375
+Virginia5,0.1875
+Virginia6,0.6875
+Virginia7,1.0
+Virginia8,0.3125
+Virginia9,0.1875
+Washington1,0.625
+Washington2,0.1875
+Washington3,0.125
+Washington4,0.8125
+Washington5,0.4375
+Washington6,0.0
+Washington7,0.0
+Washington8,1.0
+Washington9,0.125
+West Virginia1,0.0
+West Virginia2,0.3125
+West Virginia3,0.0625
+West Virginia4,0.0
+Wisconsin1,0.4375
+Wisconsin2,0.25
+Wisconsin3,0.5
+Wisconsin4,0.0
+Wisconsin5,0.1875
+Wisconsin6,1.0
+Wisconsin7,0.0
+Wisconsin8,0.8125
+Wisconsin9,1.0
+Wyoming0,0.9375

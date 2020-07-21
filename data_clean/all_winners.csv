@@ -1,0 +1,2176 @@
+year,state_district,party,party_incumbent,candidate_incumbent,candidate_incumbent_vote
+2010,Alabama1,republican,republican,1,0.9827072263921219
+2010,Alabama2,republican,democrat,0,0
+2010,Alabama3,republican,republican,1,0.5403150083295472
+2010,Alabama4,republican,republican,1,0.7475899333883048
+2010,Alabama5,republican,democrat,0,0
+2010,Alabama6,republican,republican,1,0.9779450418991982
+2010,Alabama7,democrat,democrat,0,0
+2010,Alaska0,republican,republican,1,0.5014196568847049
+2010,Arizona1,republican,democrat,0,0
+2010,Arizona2,republican,republican,1,0.5943796723891569
+2010,Arizona3,republican,republican,0,0
+2010,Arizona4,democrat,democrat,1,0.7210734004677442
+2010,Arizona5,republican,democrat,0,0
+2010,Arizona6,republican,republican,1,0.6241681030355262
+2010,Arizona7,democrat,democrat,0,0
+2010,Arizona8,democrat,democrat,1,0.5472056198326967
+2010,Arkansas1,republican,democrat,0,0
+2010,Arkansas2,republican,democrat,0,0
+2010,Arkansas3,republican,republican,0,0
+2010,Arkansas4,democrat,democrat,1,0.8617233788982148
+2010,California1,democrat,democrat,1,0.6810019554380456
+2010,California10,democrat,democrat,0,0
+2010,California11,democrat,democrat,1,0.5527256599107575
+2010,California12,democrat,democrat,1,0.7511326460635631
+2010,California13,democrat,democrat,1,0.7643029925415529
+2010,California14,democrat,democrat,1,0.6976712640138434
+2010,California15,democrat,democrat,1,0.7166172790866302
+2010,California16,democrat,democrat,1,0.7134034978351605
+2010,California17,democrat,democrat,1,0.7387917384724397
+2010,California18,democrat,democrat,1,1.0
+2010,California19,republican,republican,0,0
+2010,California2,republican,republican,1,0.5789499782175201
+2010,California20,democrat,democrat,1,0.7433455062689287
+2010,California21,republican,republican,1,0.6839263160403213
+2010,California22,republican,republican,1,1.0
+2010,California23,democrat,democrat,1,0.6807433237485504
+2010,California24,republican,republican,1,0.5815391998720222
+2010,California25,republican,republican,1,0.5772799284884811
+2010,California26,republican,republican,1,0.5263916445176506
+2010,California27,democrat,democrat,1,0.6850940869687786
+2010,California28,democrat,democrat,1,0.9989100500650336
+2010,California29,democrat,democrat,1,0.6891451089825779
+2010,California3,republican,republican,1,0.4949083892168663
+2010,California30,democrat,democrat,1,1.0
+2010,California31,democrat,democrat,1,1.0
+2010,California32,democrat,democrat,0,0
+2010,California33,democrat,democrat,0,0
+2010,California34,democrat,democrat,1,0.7709460041168046
+2010,California35,democrat,democrat,1,0.8258233422244617
+2010,California36,democrat,democrat,1,0.6864438243290178
+2010,California37,democrat,democrat,1,0.7494465113094287
+2010,California38,democrat,democrat,1,0.8172717230298009
+2010,California39,democrat,democrat,0,0
+2010,California4,republican,republican,1,0.5024338796040889
+2010,California40,republican,republican,1,0.6254904076479855
+2010,California41,republican,republican,1,0.6164901430228064
+2010,California42,republican,republican,1,0.6015806283776343
+2010,California43,democrat,democrat,1,0.6914371115979332
+2010,California44,republican,republican,1,0.5119116563643742
+2010,California45,republican,republican,1,0.5829100799422973
+2010,California46,republican,republican,1,0.5251667677380231
+2010,California47,democrat,democrat,1,0.6948957793889177
+2010,California48,republican,republican,1,0.5560637767167042
+2010,California49,republican,republican,1,0.582955914738023
+2010,California5,democrat,democrat,1,0.7426556035359816
+2010,California50,republican,republican,1,0.5023955190078532
+2010,California51,democrat,democrat,1,0.727491720838955
+2010,California52,republican,republican,0,0
+2010,California53,democrat,democrat,1,0.6848672423601736
+2010,California6,democrat,democrat,1,0.7169139910476273
+2010,California7,democrat,democrat,1,0.7282012837932812
+2010,California8,democrat,democrat,1,0.7186613706717336
+2010,California9,democrat,democrat,1,0.8606448126801153
+2010,Colorado1,democrat,democrat,1,0.7193570253419289
+2010,Colorado2,democrat,democrat,1,0.6259974910269366
+2010,Colorado3,republican,democrat,0,0
+2010,Colorado4,republican,democrat,0,0
+2010,Colorado5,republican,republican,1,0.6003041207044589
+2010,Colorado6,republican,republican,1,0.6066923649870863
+2010,Colorado7,democrat,democrat,1,0.634817107443446
+2010,Connecticut1,democrat,democrat,1,0.6580558064941788
+2010,Connecticut2,democrat,democrat,0,0
+2010,Connecticut3,democrat,democrat,1,0.6885777891366925
+2010,Connecticut4,democrat,democrat,0,0
+2010,Connecticut5,democrat,democrat,1,0.5325434402640613
+2010,Delaware0,democrat,republican,0,0
+2010,Florida1,republican,republican,1,0.7018403167590145
+2010,Florida10,republican,republican,1,0.606802337162207
+2010,Florida11,democrat,democrat,1,0.7165581420692715
+2010,Florida12,republican,republican,0,0
+2010,Florida13,republican,republican,1,0.5553919064337656
+2010,Florida14,republican,republican,1,0.5943565737209936
+2010,Florida15,republican,republican,1,0.5309930886973535
+2010,Florida16,republican,republican,0,0
+2010,Florida17,democrat,democrat,0,0
+2010,Florida18,republican,republican,1,0.5786969780525044
+2010,Florida19,democrat,democrat,0,0
+2010,Florida2,republican,democrat,0,0
+2010,Florida20,democrat,democrat,1,0.7747623176559116
+2010,Florida21,republican,republican,0,0
+2010,Florida22,republican,democrat,0,0
+2010,Florida23,democrat,democrat,1,0.8218262912137552
+2010,Florida24,republican,democrat,0,0
+2010,Florida25,republican,republican,0,0
+2010,Florida3,democrat,democrat,1,1.0
+2010,Florida4,republican,republican,1,0.652546863808154
+2010,Florida5,republican,republican,0,0
+2010,Florida6,republican,republican,1,0.6088751510173167
+2010,Florida7,republican,republican,1,0.6200336092547525
+2010,Florida8,republican,democrat,0,0
+2010,Florida9,republican,republican,1,0.621712622496254
+2010,Georgia1,republican,republican,1,0.6653324456351721
+2010,Georgia10,republican,republican,1,0.6072736491231676
+2010,Georgia11,republican,republican,1,0.6818597937868774
+2010,Georgia12,democrat,democrat,1,0.6600036096015401
+2010,Georgia13,democrat,democrat,1,0.690449605853024
+2010,Georgia2,democrat,democrat,0,0
+2010,Georgia3,republican,republican,1,0.6569414443341701
+2010,Georgia4,democrat,democrat,0,0
+2010,Georgia5,democrat,democrat,1,0.9995420651995472
+2010,Georgia6,republican,republican,1,0.6848265601012805
+2010,Georgia7,republican,republican,0,0
+2010,Georgia8,republican,democrat,0,0
+2010,Georgia9,republican,republican,0,0
+2010,Hawaii1,democrat,democrat,0,0
+2010,Hawaii2,democrat,democrat,1,0.6975045238395825
+2010,Idaho1,republican,democrat,0,0
+2010,Idaho2,republican,republican,1,0.7089231638457006
+2010,Illinois1,democrat,democrat,1,0.8586535591771464
+2010,Illinois10,republican,republican,0,0
+2010,Illinois11,republican,democrat,0,0
+2010,Illinois12,democrat,democrat,1,0.7139656785643619
+2010,Illinois13,republican,republican,1,0.5355344301316572
+2010,Illinois14,republican,democrat,0,0
+2010,Illinois15,republican,republican,1,0.6418936997880034
+2010,Illinois16,republican,republican,1,0.60867016847095
+2010,Illinois17,republican,democrat,0,0
+2010,Illinois18,republican,republican,1,0.5888296225587575
+2010,Illinois19,republican,republican,1,0.6446168909562754
+2010,Illinois2,democrat,democrat,0,0
+2010,Illinois3,democrat,democrat,1,0.7327533499770724
+2010,Illinois4,democrat,democrat,1,0.806047018036474
+2010,Illinois5,democrat,democrat,0,0
+2010,Illinois6,republican,republican,1,0.5757046159594882
+2010,Illinois7,democrat,democrat,1,0.8501753866272664
+2010,Illinois8,republican,democrat,0,0
+2010,Illinois9,democrat,democrat,0,0
+2010,Indiana1,democrat,democrat,1,0.7090014254207119
+2010,Indiana2,democrat,democrat,1,0.6709099110064222
+2010,Indiana3,republican,republican,0,0
+2010,Indiana4,republican,republican,0,0
+2010,Indiana5,republican,republican,1,0.6554870385575683
+2010,Indiana6,republican,republican,1,0.6395195671572029
+2010,Indiana7,democrat,democrat,0,0
+2010,Indiana8,republican,democrat,0,0
+2010,Indiana9,republican,democrat,0,0
+2010,Iowa1,democrat,democrat,1,0.6460664063849636
+2010,Iowa2,democrat,democrat,1,0.5724263877136986
+2010,Iowa3,democrat,democrat,1,0.5640369979498723
+2010,Iowa4,republican,republican,1,0.605668116680383
+2010,Iowa5,republican,republican,1,0.5983778529258323
+2010,Kansas1,republican,republican,0,0
+2010,Kansas2,republican,republican,0,0
+2010,Kansas3,republican,democrat,0,0
+2010,Kansas4,republican,republican,0,0
+2010,Kentucky1,republican,republican,1,0.6434826905985129
+2010,Kentucky2,republican,republican,0,0
+2010,Kentucky3,democrat,democrat,1,0.593654075778315
+2010,Kentucky4,republican,republican,1,0.6303374547238028
+2010,Kentucky5,republican,republican,1,0.8410969838645305
+2010,Kentucky6,democrat,democrat,1,0.6465783678468754
+2010,Louisiana1,republican,republican,1,0.6568173690222807
+2010,Louisiana2,democrat,republican,0,0
+2010,Louisiana3,republican,democrat,0,0
+2010,Louisiana4,republican,republican,1,0.48071771161906407
+2010,Louisiana5,republican,republican,1,1.0
+2010,Louisiana6,republican,republican,0,0
+2010,Louisiana7,republican,republican,0,0
+2010,Maine1,democrat,democrat,1,0.5489896117834574
+2010,Maine2,democrat,democrat,1,0.6743537321706373
+2010,Maryland1,republican,democrat,0,0
+2010,Maryland2,democrat,democrat,1,0.7186184784300101
+2010,Maryland3,democrat,democrat,1,0.696571698216435
+2010,Maryland4,democrat,democrat,1,0.8582528008068181
+2010,Maryland5,democrat,democrat,1,0.736468315099611
+2010,Maryland6,republican,republican,1,0.5776271801775908
+2010,Maryland7,democrat,democrat,1,0.7949758758128802
+2010,Maryland8,democrat,democrat,1,0.7507499656878444
+2010,Massachusetts1,democrat,democrat,1,0.6966542534809135
+2010,Massachusetts10,democrat,democrat,0,0
+2010,Massachusetts2,democrat,democrat,1,0.7638648067270712
+2010,Massachusetts3,democrat,democrat,1,0.750437663814846
+2010,Massachusetts4,democrat,democrat,1,0.6430476287001083
+2010,Massachusetts5,democrat,democrat,1,0.7471866453701591
+2010,Massachusetts6,democrat,democrat,1,0.6678593992642847
+2010,Massachusetts7,democrat,democrat,1,0.704837156800903
+2010,Massachusetts8,democrat,democrat,1,0.7603283431620447
+2010,Massachusetts9,democrat,democrat,1,0.7629197908134333
+2010,Michigan1,republican,democrat,0,0
+2010,Michigan10,republican,republican,1,0.6630293754656893
+2010,Michigan11,republican,republican,1,0.5141084992844355
+2010,Michigan12,democrat,democrat,1,0.7206605537484312
+2010,Michigan13,democrat,democrat,0,0
+2010,Michigan14,democrat,democrat,0,0
+2010,Michigan15,democrat,democrat,1,0.70703145256492
+2010,Michigan2,republican,republican,0,0
+2010,Michigan3,republican,republican,0,0
+2010,Michigan4,republican,republican,1,0.6194096384080736
+2010,Michigan5,democrat,democrat,1,0.7035982175423017
+2010,Michigan6,republican,republican,1,0.5886418100023151
+2010,Michigan7,republican,democrat,0,0
+2010,Michigan8,republican,republican,1,0.5652766677636218
+2010,Michigan9,democrat,democrat,0,0
+2010,Minnesota1,democrat,democratic-farmer-labor,1,0.6250090252707581
+2010,Minnesota2,republican,republican,1,0.5728524903022383
+2010,Minnesota3,republican,republican,1,0.484773939052408
+2010,Minnesota4,democrat,democratic-farmer-labor,1,0.6843502585295774
+2010,Minnesota5,democrat,democratic-farmer-labor,1,0.7088400511856036
+2010,Minnesota6,republican,republican,1,0.46406078201247764
+2010,Minnesota7,democrat,democratic-farmer-labor,1,0.721961993135884
+2010,Minnesota8,republican,democratic-farmer-labor,0,0
+2010,Mississippi1,republican,democrat,0,0
+2010,Mississippi2,democrat,democrat,1,0.6905024488817344
+2010,Mississippi3,republican,republican,1,0.6253751441169482
+2010,Mississippi4,republican,democrat,0,0
+2010,Missouri1,democrat,democrat,1,0.8685641853786742
+2010,Missouri2,republican,republican,1,0.6227706101262294
+2010,Missouri3,democrat,democrat,1,0.6636815692084793
+2010,Missouri4,republican,democrat,0,0
+2010,Missouri5,democrat,democrat,1,0.6437315405577403
+2010,Missouri6,republican,republican,1,0.594274551782739
+2010,Missouri7,republican,republican,0,0
+2010,Missouri8,republican,republican,1,0.7143606623354223
+2010,Missouri9,republican,republican,1,0.49994877287756717
+2010,Montana0,republican,republican,0,0
+2010,Nebraska1,republican,republican,1,0.7036108363138269
+2010,Nebraska2,republican,republican,1,0.5192656738612259
+2010,Nebraska3,republican,republican,1,0.7687402394586154
+2010,Nevada1,democrat,democrat,1,0.6764749565354138
+2010,Nevada2,republican,republican,1,0.5182416848749697
+2010,Nevada3,republican,democrat,0,0
+2010,New Hampshire1,republican,democrat,0,0
+2010,New Hampshire2,republican,democrat,0,0
+2010,New Jersey1,democrat,democrat,1,0.7239976574308188
+2010,New Jersey10,democrat,democrat,1,0.9892428678700529
+2010,New Jersey11,republican,republican,1,0.6184421579750401
+2010,New Jersey12,democrat,democrat,1,0.6311845543341565
+2010,New Jersey13,democrat,democrat,1,0.7535507940382966
+2010,New Jersey2,republican,republican,1,0.5905692602961633
+2010,New Jersey3,republican,democrat,0,0
+2010,New Jersey4,republican,republican,1,0.6621149498778344
+2010,New Jersey5,republican,republican,1,0.5587349153902662
+2010,New Jersey6,democrat,democrat,0,0
+2010,New Jersey7,republican,republican,1,0.5021885613000122
+2010,New Jersey8,democrat,democrat,0,0
+2010,New Jersey9,democrat,democrat,1,0.675266319762378
+2010,New Mexico1,democrat,democrat,0,0
+2010,New Mexico2,republican,democrat,0,0
+2010,New Mexico3,democrat,democrat,0,0
+2010,New York1,democrat,democrat,1,0.43518592440200204
+2010,New York10,democrat,democrat,1,0.6779564698528158
+2010,New York11,democrat,democrat,1,0.6850355862642216
+2010,New York12,democrat,democrat,0,0
+2010,New York13,democrat,democrat,1,0.4789023153173996
+2010,New York14,democrat,democrat,1,0.6425023307306841
+2010,New York15,democrat,democrat,1,0.6949449133011637
+2010,New York16,democrat,democrat,0,0
+2010,New York17,democrat,democrat,1,0.6140175989169897
+2010,New York18,democrat,democrat,1,0.5541373647476393
+2010,New York19,democrat,democrat,1,0.4404636360799975
+2010,New York2,democrat,democrat,1,0.48714525338438863
+2010,New York20,republican,democrat,0,0
+2010,New York21,democrat,democrat,0,0
+2010,New York22,democrat,democrat,1,0.5075387277578232
+2010,New York23,democrat,republican,0,0
+2010,New York24,democrat,democrat,1,0.43012753709493323
+2010,New York25,democrat,democrat,1,0.46027065615494445
+2010,New York26,republican,republican,0,0
+2010,New York27,democrat,democrat,0,0
+2010,New York28,democrat,democrat,1,0.5715940813646846
+2010,New York29,republican,democrat,0,0
+2010,New York3,republican,republican,1,0.46620902362199806
+2010,New York4,democrat,democrat,1,0.5081618168914124
+2010,New York5,democrat,democrat,1,0.514346254033669
+2010,New York6,democrat,democrat,1,0.6712117754450023
+2010,New York7,democrat,democrat,1,0.6028846306413993
+2010,New York8,democrat,democrat,1,0.6008371670582661
+2010,New York9,democrat,democrat,1,0.5224651597971143
+2010,North Carolina1,democrat,democrat,1,0.7028267662275632
+2010,North Carolina10,republican,republican,1,0.5755093425535978
+2010,North Carolina11,democrat,democrat,1,0.6196128153652896
+2010,North Carolina12,democrat,democrat,1,0.7155858704370248
+2010,North Carolina13,democrat,democrat,1,0.6593330990403917
+2010,North Carolina2,republican,democrat,0,0
+2010,North Carolina3,republican,republican,1,0.6589968959320373
+2010,North Carolina4,democrat,democrat,1,0.6331957741042369
+2010,North Carolina5,republican,republican,1,0.5836848432199631
+2010,North Carolina6,republican,republican,1,0.6699728092006147
+2010,North Carolina7,democrat,democrat,1,0.6884435281520193
+2010,North Carolina8,democrat,democrat,1,0.5538212734172131
+2010,North Carolina9,republican,republican,1,0.6237091929011108
+2010,North Dakota0,republican,democrat,0,0
+2010,Ohio1,republican,democrat,0,0
+2010,Ohio10,democrat,democrat,1,0.5702061934164585
+2010,Ohio11,democrat,democrat,1,0.8522292840483766
+2010,Ohio12,republican,republican,1,0.5478734031099814
+2010,Ohio13,democrat,democrat,1,0.6469799785004031
+2010,Ohio14,republican,republican,1,0.5831696126084037
+2010,Ohio15,republican,democrat,0,0
+2010,Ohio16,republican,democrat,0,0
+2010,Ohio17,democrat,democrat,1,0.7814588450334152
+2010,Ohio18,republican,democrat,0,0
+2010,Ohio2,republican,republican,1,0.4483119436470219
+2010,Ohio3,republican,republican,1,0.6331962805996584
+2010,Ohio4,republican,republican,1,0.6516787850994038
+2010,Ohio5,republican,republican,1,0.6409099390998999
+2010,Ohio6,republican,democrat,0,0
+2010,Ohio7,republican,republican,1,0.5821534836352018
+2010,Ohio8,republican,republican,1,0.6790367405645001
+2010,Ohio9,democrat,democrat,1,0.7437350535559977
+2010,Oklahoma1,republican,republican,1,0.6616762574667971
+2010,Oklahoma2,democrat,democrat,1,0.7046907191408595
+2010,Oklahoma3,republican,republican,1,0.6971807277225288
+2010,Oklahoma4,republican,republican,1,0.6601632811669434
+2010,Oklahoma5,republican,republican,0,0
+2010,Oregon1,democrat,democrat,1,0.7150291348631143
+2010,Oregon2,republican,republican,1,0.6949899964451391
+2010,Oregon3,democrat,democrat,1,0.7454216535409984
+2010,Oregon4,democrat,democrat,1,0.8234214983869327
+2010,Oregon5,democrat,democrat,1,0.5425488684510897
+2010,Pennsylvania1,democrat,democrat,1,0.9076157046573438
+2010,Pennsylvania10,republican,democrat,0,0
+2010,Pennsylvania11,republican,democrat,0,0
+2010,Pennsylvania12,democrat,democrat,0,0
+2010,Pennsylvania13,democrat,democrat,1,0.6279420630085515
+2010,Pennsylvania14,democrat,democrat,1,0.9125781426527076
+2010,Pennsylvania15,republican,republican,1,0.5857098584092508
+2010,Pennsylvania16,republican,republican,1,0.5581501276350326
+2010,Pennsylvania17,democrat,democrat,1,0.6367941363083593
+2010,Pennsylvania18,republican,republican,1,0.6406684483949431
+2010,Pennsylvania19,republican,republican,0,0
+2010,Pennsylvania2,democrat,democrat,1,0.8892964514222577
+2010,Pennsylvania3,republican,democrat,0,0
+2010,Pennsylvania4,democrat,democrat,1,0.5585796548554112
+2010,Pennsylvania5,republican,republican,0,0
+2010,Pennsylvania6,republican,republican,1,0.5210105263157895
+2010,Pennsylvania7,republican,democrat,0,0
+2010,Pennsylvania8,republican,democrat,0,0
+2010,Pennsylvania9,republican,republican,1,0.6392398588163077
+2010,Rhode Island1,democrat,democrat,0,0
+2010,Rhode Island2,democrat,democrat,1,0.7002307345491836
+2010,South Carolina1,republican,republican,0,0
+2010,South Carolina2,republican,republican,1,0.537381436215741
+2010,South Carolina3,republican,republican,0,0
+2010,South Carolina4,republican,republican,0,0
+2010,South Carolina5,republican,democrat,0,0
+2010,South Carolina6,democrat,democrat,1,0.674799613359342
+2010,South Dakota0,republican,democrat,0,0
+2010,Tennessee1,republican,republican,0,0
+2010,Tennessee2,republican,republican,0,0
+2010,Tennessee3,republican,republican,0,0
+2010,Tennessee4,republican,democrat,0,0
+2010,Tennessee5,democrat,democrat,1,0.6584386180071262
+2010,Tennessee6,republican,democrat,0,0
+2010,Tennessee7,republican,republican,1,0.685847368570536
+2010,Tennessee8,republican,democrat,0,0
+2010,Tennessee9,democrat,democrat,1,0.878540935646671
+2010,Texas1,republican,republican,1,0.8757610297183842
+2010,Texas10,republican,republican,1,0.5388837016599466
+2010,Texas11,republican,republican,1,0.8833078686019863
+2010,Texas12,republican,republican,1,0.6759415673813227
+2010,Texas13,republican,republican,1,0.7764693707716919
+2010,Texas14,republican,republican,1,1.0
+2010,Texas15,democrat,democrat,0,0
+2010,Texas16,democrat,democrat,1,0.8213995451194849
+2010,Texas17,republican,democrat,0,0
+2010,Texas18,democrat,democrat,0,0
+2010,Texas19,republican,republican,1,0.7243896462334112
+2010,Texas2,republican,republican,1,0.8892257533745697
+2010,Texas20,democrat,democrat,1,0.7189743300104487
+2010,Texas21,republican,republican,1,0.7999704287826516
+2010,Texas22,republican,republican,1,0.524267382967362
+2010,Texas23,republican,democrat,0,0
+2010,Texas24,republican,republican,1,0.5598402927965397
+2010,Texas25,democrat,democrat,1,0.6582822970449302
+2010,Texas26,republican,republican,1,0.6017122105211237
+2010,Texas27,republican,democrat,0,0
+2010,Texas28,democrat,democrat,1,0.6870702125292089
+2010,Texas29,democrat,democrat,1,0.7464651572185703
+2010,Texas3,republican,republican,1,0.597453312478349
+2010,Texas30,democrat,democrat,1,0.8248470408283327
+2010,Texas31,republican,republican,1,0.6026796748414028
+2010,Texas32,republican,republican,1,0.5725124316872631
+2010,Texas4,republican,republican,1,0.6879804750884473
+2010,Texas5,republican,republican,1,0.8359497282678422
+2010,Texas6,republican,republican,1,0.6201680792067916
+2010,Texas7,republican,republican,0,0
+2010,Texas8,republican,republican,1,0.725616655748272
+2010,Texas9,democrat,democrat,1,0.936469914338532
+2010,Utah1,republican,republican,1,0.6485491604738914
+2010,Utah2,democrat,democrat,1,0.6335060647383909
+2010,Utah3,republican,republican,1,0.6561043115877209
+2010,Vermont0,democrat,democrat,1,0.8324741490050344
+2010,Virginia1,republican,republican,1,0.5657605497762925
+2010,Virginia10,republican,republican,1,0.5880151786655423
+2010,Virginia11,democrat,democrat,0,0
+2010,Virginia2,republican,democrat,0,0
+2010,Virginia3,democrat,democrat,1,0.970168386658471
+2010,Virginia4,republican,republican,1,0.5951046421599839
+2010,Virginia5,republican,democrat,0,0
+2010,Virginia6,republican,republican,1,0.6157327972547313
+2010,Virginia7,republican,republican,1,0.6272033131276237
+2010,Virginia8,democrat,democrat,1,0.6794272951916075
+2010,Virginia9,republican,democrat,0,0
+2010,Washington1,democrat,democrat,1,0.677583908179236
+2010,Washington2,democrat,democrat,1,0.6239213469281166
+2010,Washington3,republican,democrat,0,0
+2010,Washington4,republican,republican,1,0.6308794594795263
+2010,Washington5,republican,republican,1,0.6528065693092401
+2010,Washington6,democrat,democrat,1,0.6686456412786621
+2010,Washington7,democrat,democrat,1,0.8365294527200681
+2010,Washington8,republican,republican,1,0.5278431415770708
+2010,Washington9,democrat,democrat,1,0.6544593967517401
+2010,West Virginia1,republican,democrat,0,0
+2010,West Virginia2,republican,republican,1,0.5706881926180137
+2010,West Virginia3,democrat,democrat,1,0.6691926405950072
+2010,Wisconsin1,republican,republican,1,0.6397245137867723
+2010,Wisconsin2,democrat,democrat,1,0.6933272793950719
+2010,Wisconsin3,democrat,democrat,1,0.6318967452300785
+2010,Wisconsin4,democrat,democrat,1,0.8762643648767208
+2010,Wisconsin5,republican,republican,0,0
+2010,Wisconsin6,republican,republican,1,0.6370885305400501
+2010,Wisconsin7,republican,democrat,0,0
+2010,Wisconsin8,republican,democrat,0,0
+2010,Wyoming0,republican,republican,1,0.5258699789642393
+2012,Alabama1,republican,republican,1,0.8258393534722711
+2012,Alabama2,republican,republican,1,0.5097293496721881
+2012,Alabama3,republican,republican,1,0.5942091158227305
+2012,Alabama4,republican,republican,1,0.9881747102597793
+2012,Alabama5,republican,republican,1,0.5788732394366197
+2012,Alabama6,republican,republican,1,0.9805315144915077
+2012,Alabama7,democrat,democrat,1,0.7243169920094954
+2012,Alaska0,republican,republican,1,0.6895787052509486
+2012,Arizona1,democrat,republican,0,0
+2012,Arizona2,democrat,republican,0,0
+2012,Arizona3,democrat,republican,0,0
+2012,Arizona4,republican,democrat,0,0
+2012,Arizona5,republican,republican,0,0
+2012,Arizona6,republican,republican,0,0
+2012,Arizona7,democrat,democrat,0,0
+2012,Arizona8,republican,democrat,0,0
+2012,Arizona9,democrat,,0,0
+2012,Arkansas1,republican,republican,0,0
+2012,Arkansas2,republican,republican,1,0.5790364805645666
+2012,Arkansas3,republican,republican,1,0.7243507554004183
+2012,Arkansas4,republican,democrat,0,0
+2012,California1,republican,democrat,0,0
+2012,California10,republican,democrat,0,0
+2012,California11,democrat,democrat,0,0
+2012,California12,democrat,democrat,0,0
+2012,California13,democrat,democrat,0,0
+2012,California14,democrat,democrat,0,0
+2012,California15,democrat,democrat,0,0
+2012,California16,democrat,democrat,0,0
+2012,California17,democrat,democrat,0,0
+2012,California18,democrat,democrat,0,0
+2012,California19,democrat,republican,0,0
+2012,California2,democrat,republican,0,0
+2012,California20,democrat,democrat,0,0
+2012,California21,republican,republican,0,0
+2012,California22,republican,republican,0,0
+2012,California23,republican,democrat,0,0
+2012,California24,democrat,republican,0,0
+2012,California25,republican,republican,0,0
+2012,California26,democrat,republican,0,0
+2012,California27,democrat,democrat,0,0
+2012,California28,democrat,democrat,0,0
+2012,California29,democrat,democrat,0,0
+2012,California3,democrat,republican,0,0
+2012,California30,democrat,democrat,0,0
+2012,California31,republican,democrat,0,0
+2012,California32,democrat,democrat,0,0
+2012,California33,democrat,democrat,0,0
+2012,California34,democrat,democrat,0,0
+2012,California35,democrat,democrat,0,0
+2012,California36,democrat,democrat,0,0
+2012,California37,democrat,democrat,0,0
+2012,California38,democrat,democrat,0,0
+2012,California39,republican,democrat,0,0
+2012,California4,republican,republican,1,0.6126864960276633
+2012,California40,democrat,republican,0,0
+2012,California41,democrat,republican,0,0
+2012,California42,republican,republican,0,0
+2012,California43,democrat,democrat,0,0
+2012,California44,democrat,republican,0,0
+2012,California45,republican,republican,0,0
+2012,California46,democrat,republican,0,0
+2012,California47,democrat,democrat,0,0
+2012,California48,republican,republican,0,0
+2012,California49,republican,republican,1,0.627846286054714
+2012,California5,democrat,democrat,0,0
+2012,California50,republican,republican,0,0
+2012,California51,democrat,democrat,0,0
+2012,California52,democrat,republican,0,0
+2012,California53,democrat,democrat,1,0.6225939831757046
+2012,California6,democrat,democrat,0,0
+2012,California7,democrat,democrat,0,0
+2012,California8,republican,democrat,0,0
+2012,California9,democrat,democrat,0,0
+2012,Colorado1,democrat,democrat,1,0.6742350217327474
+2012,Colorado2,democrat,democrat,1,0.5741331253812241
+2012,Colorado3,republican,republican,0,0
+2012,Colorado4,republican,republican,1,0.524769003069865
+2012,Colorado5,republican,republican,1,0.6575156818709827
+2012,Colorado6,republican,republican,1,0.6568140132892976
+2012,Colorado7,democrat,democrat,1,0.5344480812105687
+2012,Connecticut1,democrat,democrat,1,0.5775046673568162
+2012,Connecticut2,democrat,democrat,0,0
+2012,Connecticut3,democrat,democrat,1,0.6097316698465066
+2012,Connecticut4,democrat,democrat,1,0.5094323132052385
+2012,Connecticut5,democrat,democrat,0,0
+2012,Delaware0,democrat,democrat,1,0.5678094203562407
+2012,Florida1,republican,republican,1,0.8000009366540842
+2012,Florida10,republican,republican,0,0
+2012,Florida11,republican,democrat,0,0
+2012,Florida12,republican,republican,0,0
+2012,Florida13,republican,republican,0,0
+2012,Florida14,democrat,republican,0,0
+2012,Florida15,republican,republican,0,0
+2012,Florida16,republican,republican,0,0
+2012,Florida17,republican,democrat,0,0
+2012,Florida18,democrat,republican,0,0
+2012,Florida19,republican,democrat,0,0
+2012,Florida2,republican,republican,0,0
+2012,Florida20,democrat,democrat,0,0
+2012,Florida21,democrat,republican,0,0
+2012,Florida22,democrat,republican,0,0
+2012,Florida23,democrat,democrat,0,0
+2012,Florida24,democrat,republican,0,0
+2012,Florida25,republican,republican,0,0
+2012,Florida26,democrat,,0,0
+2012,Florida27,republican,,0,0
+2012,Florida3,republican,democrat,0,0
+2012,Florida4,republican,republican,1,0.7721111568368386
+2012,Florida5,democrat,republican,0,0
+2012,Florida6,republican,republican,0,0
+2012,Florida7,republican,republican,1,0.6903110065655288
+2012,Florida8,republican,republican,0,0
+2012,Florida9,democrat,republican,0,0
+2012,Georgia1,republican,republican,1,0.7162882744214172
+2012,Georgia10,republican,republican,1,0.6735816009406392
+2012,Georgia11,republican,republican,1,1.0
+2012,Georgia12,democrat,democrat,1,0.5658549422572018
+2012,Georgia13,democrat,democrat,1,0.6943013386781481
+2012,Georgia14,republican,,0,0
+2012,Georgia2,democrat,democrat,1,0.5144090419934242
+2012,Georgia3,republican,republican,1,0.6947849025136332
+2012,Georgia4,democrat,democrat,0,0
+2012,Georgia5,democrat,democrat,1,0.7371987102883814
+2012,Georgia6,republican,republican,1,0.9990518841281368
+2012,Georgia7,republican,republican,1,0.6707045611811884
+2012,Georgia8,republican,republican,1,0.5269715926571633
+2012,Georgia9,republican,republican,0,0
+2012,Hawaii1,democrat,democrat,0,0
+2012,Hawaii2,democrat,democrat,0,0
+2012,Idaho1,republican,republican,0,0
+2012,Idaho2,republican,republican,1,0.688313964259427
+2012,Illinois1,democrat,democrat,1,0.8035859555497706
+2012,Illinois10,democrat,republican,0,0
+2012,Illinois11,democrat,republican,0,0
+2012,Illinois12,democrat,democrat,0,0
+2012,Illinois13,republican,republican,0,0
+2012,Illinois14,republican,republican,0,0
+2012,Illinois15,republican,republican,0,0
+2012,Illinois16,republican,republican,0,0
+2012,Illinois17,democrat,republican,0,0
+2012,Illinois18,republican,republican,1,0.6911787312926708
+2012,Illinois2,democrat,democrat,1,0.805213961616777
+2012,Illinois3,democrat,democrat,1,0.6968858588344026
+2012,Illinois4,democrat,democrat,1,0.7735842136150235
+2012,Illinois5,democrat,democrat,1,0.7062273927070095
+2012,Illinois6,republican,republican,1,0.6364500792393027
+2012,Illinois7,democrat,democrat,1,0.8150493067680542
+2012,Illinois8,democrat,republican,0,0
+2012,Illinois9,democrat,democrat,0,0
+2012,Indiana1,democrat,democrat,1,0.5856387774222631
+2012,Indiana2,republican,democrat,0,0
+2012,Indiana3,republican,republican,1,0.6276175499462304
+2012,Indiana4,republican,republican,1,0.6856990342127895
+2012,Indiana5,republican,republican,0,0
+2012,Indiana6,republican,republican,0,0
+2012,Indiana7,democrat,democrat,0,0
+2012,Indiana8,republican,republican,0,0
+2012,Indiana9,republican,republican,0,0
+2012,Iowa1,democrat,democrat,1,0.49514940588519785
+2012,Iowa2,democrat,democrat,1,0.5099108616705184
+2012,Iowa3,republican,democrat,0,0
+2012,Iowa4,republican,republican,0,0
+2012,Kansas1,republican,republican,1,0.7376429600904161
+2012,Kansas2,republican,republican,0,0
+2012,Kansas3,republican,republican,1,0.5840324067128191
+2012,Kansas4,republican,republican,1,0.5879301613212511
+2012,Kentucky1,republican,republican,1,0.7124531098041031
+2012,Kentucky2,republican,republican,1,0.6788704796324923
+2012,Kentucky3,democrat,democrat,1,0.5467901379283397
+2012,Kentucky4,republican,republican,0,0
+2012,Kentucky5,republican,republican,1,0.7742459741711227
+2012,Kentucky6,republican,democrat,0,0
+2012,Louisiana1,republican,republican,1,0.7852190072735993
+2012,Louisiana2,democrat,democrat,0,0
+2012,Louisiana3,republican,republican,0,0
+2012,Louisiana4,republican,republican,1,0.6233811628375416
+2012,Louisiana5,republican,republican,1,0.785728082826826
+2012,Louisiana6,republican,republican,1,0.6563328661262217
+2012,Maine1,democrat,democrat,1,0.568150589436835
+2012,Maine2,democrat,democrat,1,0.5513158437409781
+2012,Maryland1,republican,republican,1,0.5408351115016108
+2012,Maryland2,democrat,democrat,1,0.6420796155171754
+2012,Maryland3,democrat,democrat,1,0.6107302768101595
+2012,Maryland4,democrat,democrat,1,0.8344339131340486
+2012,Maryland5,democrat,democrat,1,0.642588749000551
+2012,Maryland6,democrat,republican,0,0
+2012,Maryland7,democrat,democrat,1,0.7518122008391278
+2012,Maryland8,democrat,democrat,1,0.7326522533350504
+2012,Massachusetts1,democrat,democrat,0,0
+2012,Massachusetts2,democrat,democrat,0,0
+2012,Massachusetts3,democrat,democrat,0,0
+2012,Massachusetts4,democrat,democrat,0,0
+2012,Massachusetts5,democrat,democrat,0,0
+2012,Massachusetts6,democrat,democrat,1,0.56846993599675
+2012,Massachusetts7,democrat,democrat,0,0
+2012,Massachusetts8,democrat,democrat,0,0
+2012,Massachusetts9,democrat,democrat,0,0
+2012,Michigan1,republican,republican,1,0.5194128522606308
+2012,Michigan10,republican,republican,1,0.7197195742316077
+2012,Michigan11,republican,republican,0,0
+2012,Michigan12,democrat,democrat,0,0
+2012,Michigan13,democrat,democrat,0,0
+2012,Michigan14,democrat,democrat,0,0
+2012,Michigan2,republican,republican,1,0.6526889923622621
+2012,Michigan3,republican,republican,1,0.5967696585335375
+2012,Michigan4,republican,republican,1,0.6620385640550202
+2012,Michigan5,democrat,democrat,0,0
+2012,Michigan6,republican,republican,1,0.6197507750533479
+2012,Michigan7,republican,republican,1,0.5015531597162215
+2012,Michigan8,republican,republican,1,0.6408119431264139
+2012,Michigan9,democrat,democrat,0,0
+2012,Minnesota1,democrat,democrat,1,0.493397310538094
+2012,Minnesota2,republican,republican,1,0.6330567318198796
+2012,Minnesota3,republican,republican,1,0.5880397822628899
+2012,Minnesota4,democrat,democrat,1,0.5908843431593684
+2012,Minnesota5,democrat,democrat,1,0.6765520676757437
+2012,Minnesota6,republican,republican,1,0.5251258680698473
+2012,Minnesota7,democrat,democrat,1,0.5520433684367703
+2012,Minnesota8,democratic-farmer-labor,republican,0,0
+2012,Mississippi1,republican,republican,0,0
+2012,Mississippi2,democrat,democrat,1,0.6146677093302831
+2012,Mississippi3,republican,republican,1,0.6799287166950841
+2012,Mississippi4,republican,republican,0,0
+2012,Missouri1,democrat,democrat,1,0.7355110699808961
+2012,Missouri2,republican,republican,0,0
+2012,Missouri3,republican,democrat,0,0
+2012,Missouri4,republican,republican,1,0.5042700483435234
+2012,Missouri5,democrat,democrat,1,0.5332483557357266
+2012,Missouri6,republican,republican,1,0.6944329283680017
+2012,Missouri7,republican,republican,1,0.6339494045344399
+2012,Missouri8,republican,republican,1,0.6556104878086113
+2012,Montana0,republican,republican,0,0
+2012,Nebraska1,republican,republican,1,0.7127280045372217
+2012,Nebraska2,republican,republican,1,0.6080634500991408
+2012,Nebraska3,republican,republican,1,0.7012251633850146
+2012,Nevada1,democrat,democrat,0,0
+2012,Nevada2,republican,republican,0,0
+2012,Nevada3,republican,republican,0,0
+2012,Nevada4,democrat,,0,0
+2012,New Hampshire1,democrat,republican,0,0
+2012,New Hampshire2,democrat,republican,0,0
+2012,New Jersey1,democrat,democrat,1,0.6319361490963766
+2012,New Jersey10,democrat,democrat,0,0
+2012,New Jersey11,republican,republican,1,0.6718866886688669
+2012,New Jersey12,democrat,democrat,1,0.5304555837687865
+2012,New Jersey2,republican,republican,1,0.654978458592628
+2012,New Jersey3,republican,republican,1,0.5002746142917448
+2012,New Jersey4,republican,republican,1,0.6940910890241685
+2012,New Jersey5,republican,republican,1,0.6493955275847806
+2012,New Jersey6,democrat,democrat,1,0.547453595435047
+2012,New Jersey7,republican,republican,1,0.5937418778886465
+2012,New Jersey8,democrat,democrat,0,0
+2012,New Jersey9,democrat,democrat,0,0
+2012,New Mexico1,democrat,democrat,0,0
+2012,New Mexico2,republican,republican,0,0
+2012,New Mexico3,democrat,democrat,0,0
+2012,New York1,democrat,democrat,1,0.4866960055839649
+2012,New York10,democrat,democrat,0,0
+2012,New York11,republican,democrat,0,0
+2012,New York12,democrat,democrat,0,0
+2012,New York13,democrat,democrat,0,0
+2012,New York14,democrat,democrat,0,0
+2012,New York15,democrat,democrat,0,0
+2012,New York16,democrat,democrat,0,0
+2012,New York17,democrat,democrat,0,0
+2012,New York18,democrat,democrat,0,0
+2012,New York19,republican,democrat,0,0
+2012,New York2,republican,democrat,0,0
+2012,New York20,democrat,republican,0,0
+2012,New York21,democrat,democrat,0,0
+2012,New York22,republican,democrat,0,0
+2012,New York23,republican,democrat,0,0
+2012,New York24,democrat,democrat,0,0
+2012,New York25,democrat,democrat,0,0
+2012,New York26,democrat,republican,0,0
+2012,New York27,democrat,democrat,0,0
+2012,New York3,democrat,republican,0,0
+2012,New York4,democrat,democrat,1,0.5360646343608336
+2012,New York5,democrat,democrat,0,0
+2012,New York6,democrat,democrat,0,0
+2012,New York7,democrat,democrat,0,0
+2012,New York8,democrat,democrat,0,0
+2012,New York9,democrat,democrat,0,0
+2012,North Carolina1,democrat,democrat,1,0.59309489495352
+2012,North Carolina10,republican,republican,1,0.7117719073917893
+2012,North Carolina11,republican,democrat,0,0
+2012,North Carolina12,democrat,democrat,1,0.6388304209077386
+2012,North Carolina13,republican,democrat,0,0
+2012,North Carolina2,republican,republican,0,0
+2012,North Carolina3,republican,republican,1,0.7186258178461045
+2012,North Carolina4,democrat,democrat,1,0.5716177639130051
+2012,North Carolina5,republican,republican,1,0.6588540323601533
+2012,North Carolina6,republican,republican,1,0.7520829422552091
+2012,North Carolina7,democrat,democrat,1,0.5368113620839908
+2012,North Carolina8,republican,democrat,0,0
+2012,North Carolina9,republican,republican,0,0
+2012,North Dakota0,republican,republican,0,0
+2012,Ohio1,republican,republican,1,0.5149415933068013
+2012,Ohio10,republican,democrat,0,0
+2012,Ohio11,democrat,democrat,1,0.8292994235575581
+2012,Ohio12,republican,republican,1,0.5578534809421205
+2012,Ohio13,democrat,democrat,0,0
+2012,Ohio14,republican,republican,0,0
+2012,Ohio15,republican,republican,1,0.5415828029520028
+2012,Ohio16,republican,republican,0,0
+2012,Ohio2,republican,republican,0,0
+2012,Ohio3,democrat,republican,0,0
+2012,Ohio4,republican,republican,1,0.714882263670632
+2012,Ohio5,republican,republican,1,0.6782403725181125
+2012,Ohio6,republican,republican,1,0.5018606348048158
+2012,Ohio7,republican,republican,0,0
+2012,Ohio8,republican,republican,1,0.656427638477529
+2012,Ohio9,democrat,democrat,1,0.5935383595950147
+2012,Oklahoma1,republican,republican,0,0
+2012,Oklahoma2,republican,democrat,0,0
+2012,Oklahoma3,republican,republican,1,0.7799350724414303
+2012,Oklahoma4,republican,republican,1,1.0
+2012,Oklahoma5,republican,republican,1,0.6252302072499429
+2012,Oregon1,democrat,democrat,0,0
+2012,Oregon2,republican,republican,1,0.7391313696749894
+2012,Oregon3,democrat,democrat,1,0.7001544586333674
+2012,Oregon4,democrat,democrat,1,0.5449250466361575
+2012,Oregon5,democrat,democrat,1,0.5124878330911707
+2012,Pennsylvania1,democrat,democrat,1,1.0
+2012,Pennsylvania10,republican,republican,0,0
+2012,Pennsylvania11,republican,republican,0,0
+2012,Pennsylvania12,republican,democrat,0,0
+2012,Pennsylvania13,democrat,democrat,1,0.5634157107125398
+2012,Pennsylvania14,democrat,democrat,1,0.6878514678537218
+2012,Pennsylvania15,republican,republican,1,0.5354928916440151
+2012,Pennsylvania16,republican,republican,1,0.653868468652947
+2012,Pennsylvania17,democrat,democrat,0,0
+2012,Pennsylvania18,republican,republican,1,0.6732821506700049
+2012,Pennsylvania2,democrat,democrat,1,0.8929836302617888
+2012,Pennsylvania3,republican,republican,1,0.5572241613679026
+2012,Pennsylvania4,republican,democrat,0,0
+2012,Pennsylvania5,republican,republican,1,0.6868935702272629
+2012,Pennsylvania6,republican,republican,1,0.5710248737530041
+2012,Pennsylvania7,republican,republican,1,0.5494385023540246
+2012,Pennsylvania8,republican,republican,1,0.5352263145399622
+2012,Pennsylvania9,republican,republican,1,0.7306127912843801
+2012,Rhode Island1,democrat,democrat,1,0.5053602298307361
+2012,Rhode Island2,democrat,democrat,1,0.5979389706303315
+2012,South Carolina1,republican,republican,1,0.65365112646826
+2012,South Carolina2,republican,republican,1,0.5347553837148402
+2012,South Carolina3,republican,republican,1,0.6245918024026758
+2012,South Carolina4,republican,republican,1,0.6345105562678128
+2012,South Carolina5,republican,republican,1,0.5512120760800049
+2012,South Carolina6,democrat,democrat,1,0.6285835963725638
+2012,South Carolina7,republican,,0,0
+2012,South Dakota0,republican,republican,0,0
+2012,Tennessee1,republican,republican,1,0.8083937408402941
+2012,Tennessee2,republican,republican,1,0.8178336601684162
+2012,Tennessee3,republican,republican,0,0
+2012,Tennessee4,republican,republican,1,0.5706593629762172
+2012,Tennessee5,democrat,democrat,1,0.5622639797688844
+2012,Tennessee6,republican,republican,1,0.6725680852399991
+2012,Tennessee7,republican,republican,1,0.7237172276542355
+2012,Tennessee8,republican,republican,1,0.5899405633045608
+2012,Tennessee9,democrat,democrat,1,0.7399690156922917
+2012,Texas1,republican,republican,1,0.8972948983766617
+2012,Texas10,republican,republican,1,0.6467384273612554
+2012,Texas11,republican,republican,1,0.8084266769666538
+2012,Texas12,republican,republican,1,0.71857282054971
+2012,Texas13,republican,republican,1,0.8704889921026122
+2012,Texas14,republican,republican,0,0
+2012,Texas15,democrat,democrat,0,0
+2012,Texas16,democrat,democrat,0,0
+2012,Texas17,republican,republican,1,0.6180187903291203
+2012,Texas18,democrat,democrat,1,0.7015108678629421
+2012,Texas19,republican,republican,1,0.7777981489901583
+2012,Texas2,republican,republican,1,0.886111319353102
+2012,Texas20,democrat,democrat,0,0
+2012,Texas21,republican,republican,1,0.6887653512016741
+2012,Texas22,republican,republican,1,0.6749350456001498
+2012,Texas23,democrat,republican,0,0
+2012,Texas24,republican,republican,1,0.8157180467368181
+2012,Texas25,republican,democrat,0,0
+2012,Texas26,republican,republican,1,0.6705277917874423
+2012,Texas27,republican,republican,0,0
+2012,Texas28,democrat,democrat,1,0.5634818046354644
+2012,Texas29,democrat,democrat,1,0.6461283384119018
+2012,Texas3,republican,republican,1,0.662814768231009
+2012,Texas30,democrat,democrat,1,0.7573566828686238
+2012,Texas31,republican,republican,1,0.8253972400551205
+2012,Texas32,republican,republican,1,0.6261025151928367
+2012,Texas33,democrat,,0,0
+2012,Texas34,democrat,,0,0
+2012,Texas35,democrat,,0,0
+2012,Texas36,republican,,0,0
+2012,Texas4,republican,republican,1,0.7318746443640424
+2012,Texas5,republican,republican,1,0.7052705997396745
+2012,Texas6,republican,republican,1,0.6590918877685981
+2012,Texas7,republican,republican,1,0.8144723264806268
+2012,Texas8,republican,republican,1,0.8026743046956971
+2012,Texas9,democrat,democrat,1,0.7573912467972052
+2012,Utah1,republican,republican,1,0.6919350052695664
+2012,Utah2,republican,democrat,0,0
+2012,Utah3,republican,republican,1,0.7232459909103144
+2012,Utah4,democrat,,0,0
+2012,Vermont0,democrat,democrat,1,0.6456706118119578
+2012,Virginia1,republican,republican,1,0.638741778020694
+2012,Virginia10,republican,republican,1,0.6286848616199007
+2012,Virginia11,democrat,democrat,1,0.49226485012183246
+2012,Virginia2,republican,republican,1,0.5312437984472815
+2012,Virginia3,democrat,democrat,1,0.7001464307504576
+2012,Virginia4,republican,republican,1,0.6233158088402079
+2012,Virginia5,republican,republican,1,0.5081194565212772
+2012,Virginia6,republican,republican,1,0.7626918889168073
+2012,Virginia7,republican,republican,1,0.5921500244213845
+2012,Virginia8,democrat,democrat,1,0.6102501730031246
+2012,Virginia9,republican,republican,1,0.5121310528202357
+2012,Washington1,democrat,democrat,0,0
+2012,Washington10,democrat,,0,0
+2012,Washington2,democrat,democrat,1,0.5107233446176015
+2012,Washington3,republican,republican,0,0
+2012,Washington4,republican,republican,1,0.6764207009956884
+2012,Washington5,republican,republican,0,0
+2012,Washington6,democrat,democrat,0,0
+2012,Washington7,democrat,democrat,1,0.829733585363244
+2012,Washington8,republican,republican,1,0.5205162048167499
+2012,Washington9,democrat,democrat,1,0.548520793992748
+2012,West Virginia1,republican,republican,1,0.5040026684456305
+2012,West Virginia2,republican,republican,1,0.6845707869535644
+2012,West Virginia3,democrat,democrat,1,0.5603864734299517
+2012,Wisconsin1,republican,republican,1,0.6820962951442758
+2012,Wisconsin2,democrat,democrat,0,0
+2012,Wisconsin3,democrat,democrat,1,0.5028248587570622
+2012,Wisconsin4,democrat,democrat,1,0.6898458936199863
+2012,Wisconsin5,republican,republican,0,0
+2012,Wisconsin6,republican,republican,1,0.7066087821503892
+2012,Wisconsin7,republican,republican,0,0
+2012,Wisconsin8,republican,republican,1,0.5476500163536652
+2012,Wyoming0,republican,republican,1,0.6899676137971513
+2014,Alabama1,republican,republican,0,0
+2014,Alabama2,republican,republican,1,0.6359890545266295
+2014,Alabama3,republican,republican,1,0.6399664147774979
+2014,Alabama4,republican,republican,1,0.7397164069293024
+2014,Alabama5,republican,republican,1,0.6494663448829873
+2014,Alabama6,republican,republican,0,0
+2014,Alabama7,democrat,democrat,1,0.7584861592259866
+2014,Alaska0,republican,republican,1,0.6393838594360326
+2014,Arizona1,democrat,democrat,1,0.4879826705618156
+2014,Arizona2,republican,democrat,0,0
+2014,Arizona3,democrat,democrat,1,0.5836939382802404
+2014,Arizona4,republican,republican,1,0.6683089924515917
+2014,Arizona5,republican,republican,1,0.6719060715815995
+2014,Arizona6,republican,republican,1,0.6129607711382543
+2014,Arizona7,democrat,democrat,0,0
+2014,Arizona8,republican,republican,1,0.6334849756773501
+2014,Arizona9,democrat,democrat,1,0.48726867121628265
+2014,Arkansas1,republican,republican,1,0.5623007336647181
+2014,Arkansas2,republican,republican,0,0
+2014,Arkansas3,republican,republican,1,0.7590450215745339
+2014,Arkansas4,republican,republican,0,0
+2014,California1,republican,republican,0,0
+2014,California10,republican,republican,0,0
+2014,California11,democrat,democrat,0,0
+2014,California12,democrat,democrat,1,0.850838567744402
+2014,California13,democrat,democrat,1,0.8678157334830309
+2014,California14,democrat,democrat,1,0.7891653728661971
+2014,California15,democrat,democrat,1,0.5210834768908472
+2014,California16,democrat,democrat,1,0.5740861308918277
+2014,California17,democrat,democrat,1,0.7354471964859178
+2014,California18,democrat,democrat,1,0.7048924599415767
+2014,California19,democrat,democrat,1,0.7323577587957385
+2014,California2,democrat,democrat,1,0.7124329976127939
+2014,California20,democrat,democrat,1,0.7406855567258372
+2014,California21,republican,republican,1,0.5775908774283429
+2014,California22,republican,republican,1,0.6187967710723985
+2014,California23,republican,republican,1,0.7322166821757106
+2014,California24,democrat,democrat,1,0.5509727763229583
+2014,California25,republican,republican,0,0
+2014,California26,democrat,democrat,1,0.526917612290905
+2014,California27,democrat,democrat,1,0.639775443138817
+2014,California28,democrat,democrat,1,0.7648746914405924
+2014,California29,democrat,democrat,0,0
+2014,California3,democrat,democrat,1,0.5423049305887985
+2014,California30,democrat,democrat,1,0.6030074520578896
+2014,California31,democrat,republican,0,0
+2014,California32,democrat,democrat,1,0.6570003839861975
+2014,California33,democrat,democrat,0,0
+2014,California34,democrat,democrat,1,0.8561561988761648
+2014,California35,democrat,democrat,0,0
+2014,California36,democrat,democrat,1,0.5293933948938705
+2014,California37,democrat,democrat,1,0.8641748059103431
+2014,California38,democrat,democrat,1,0.6754476095719406
+2014,California39,republican,republican,1,0.5778812304785944
+2014,California4,republican,republican,1,0.6110915449445145
+2014,California40,democrat,democrat,1,0.588914641625449
+2014,California41,democrat,democrat,1,0.5896773165121946
+2014,California42,republican,republican,1,0.6059400689472288
+2014,California43,democrat,democrat,1,0.7124304359512977
+2014,California44,democrat,democrat,1,0.6022314916394411
+2014,California45,republican,republican,0,0
+2014,California46,democrat,democrat,1,0.6387477889396923
+2014,California47,democrat,democrat,0,0
+2014,California48,republican,republican,0,0
+2014,California49,republican,republican,1,0.5816261133647467
+2014,California5,democrat,democrat,1,0.7447112331462427
+2014,California50,republican,republican,1,0.6768979414850577
+2014,California51,democrat,democrat,1,0.7147768478901868
+2014,California52,democrat,democrat,0,0
+2014,California53,democrat,democrat,1,0.6143149451933793
+2014,California6,democrat,democrat,1,0.7505243538419137
+2014,California7,democrat,democrat,1,0.5168154092158176
+2014,California8,republican,republican,1,0.5738738839037207
+2014,California9,democrat,democrat,1,0.5555409546783557
+2014,Colorado1,democrat,democrat,1,0.6822865512190919
+2014,Colorado2,democrat,democrat,1,0.5568527918781726
+2014,Colorado3,republican,republican,1,0.5336000023038356
+2014,Colorado4,republican,republican,0,0
+2014,Colorado5,republican,republican,1,0.6498009640954201
+2014,Colorado6,republican,republican,1,0.4780732195244289
+2014,Colorado7,democrat,democrat,1,0.5351203918233276
+2014,Connecticut1,democrat,democrat,1,0.6491596002167905
+2014,Connecticut2,democrat,democrat,1,0.6336767460529836
+2014,Connecticut3,democrat,democrat,1,0.6768359875180655
+2014,Connecticut4,democrat,democrat,1,0.5702172905477249
+2014,Connecticut5,democrat,democrat,0,0
+2014,Delaware0,democrat,democrat,0,0
+2014,Florida1,republican,republican,1,0.695984167848824
+2014,Florida10,republican,republican,1,0.5173265382428072
+2014,Florida11,republican,republican,1,0.6447707603133499
+2014,Florida12,republican,republican,1,0.6348423676503103
+2014,Florida13,republican,republican,0,0
+2014,Florida14,democrat,democrat,1,0.7024957145555433
+2014,Florida15,republican,republican,1,1.0
+2014,Florida16,republican,republican,1,0.5361210739208654
+2014,Florida17,republican,republican,1,0.5862838599051958
+2014,Florida18,democrat,democrat,1,0.5027958810276262
+2014,Florida19,republican,republican,0,0
+2014,Florida2,democrat,republican,0,0
+2014,Florida20,democrat,democrat,1,0.8790019853859222
+2014,Florida21,democrat,democrat,1,0.7779992967651196
+2014,Florida22,democrat,democrat,1,0.546269057178723
+2014,Florida23,democrat,democrat,1,0.6324837526776314
+2014,Florida24,democrat,democrat,1,1.0
+2014,Florida25,republican,republican,1,0.7564638488930175
+2014,Florida26,republican,democrat,0,0
+2014,Florida27,republican,republican,1,0.6016744072884942
+2014,Florida3,republican,republican,0,0
+2014,Florida4,republican,republican,1,0.7607316068088883
+2014,Florida5,democrat,democrat,1,0.7076718446385513
+2014,Florida6,republican,republican,0,0
+2014,Florida7,republican,republican,1,0.5870637005158065
+2014,Florida8,republican,republican,1,0.5887838949410877
+2014,Florida9,democrat,democrat,1,0.6251862580427455
+2014,Georgia1,republican,republican,0,0
+2014,Georgia10,republican,republican,0,0
+2014,Georgia11,republican,republican,0,0
+2014,Georgia12,republican,democrat,0,0
+2014,Georgia13,democrat,democrat,1,0.7174448919861617
+2014,Georgia14,republican,republican,1,0.7297118507974744
+2014,Georgia2,democrat,democrat,0,0
+2014,Georgia3,republican,republican,1,1.0
+2014,Georgia4,democrat,democrat,0,0
+2014,Georgia5,democrat,democrat,1,0.8439306358381503
+2014,Georgia6,republican,republican,1,0.6450580545107029
+2014,Georgia7,republican,republican,1,0.6216189410709894
+2014,Georgia8,republican,republican,1,1.0
+2014,Georgia9,republican,republican,1,0.7618430080149751
+2014,Hawaii1,democrat,democrat,0,0
+2014,Hawaii2,democrat,democrat,1,0.7684271010520651
+2014,Idaho1,republican,republican,1,0.6295765398264735
+2014,Idaho2,republican,republican,1,0.6512273386625808
+2014,Illinois1,democrat,democrat,1,0.7382216902918552
+2014,Illinois10,republican,democrat,0,0
+2014,Illinois11,democrat,democrat,1,0.5856505239977192
+2014,Illinois12,republican,democrat,0,0
+2014,Illinois13,republican,republican,1,0.4654924673471814
+2014,Illinois14,republican,republican,1,0.588178994151427
+2014,Illinois15,republican,republican,1,0.6860607394219452
+2014,Illinois16,republican,republican,1,0.6181407052262913
+2014,Illinois17,democrat,democrat,1,0.5327542589038766
+2014,Illinois18,republican,republican,1,0.7416383774584308
+2014,Illinois2,democrat,democrat,0,0
+2014,Illinois3,democrat,democrat,1,0.684818870283038
+2014,Illinois4,democrat,democrat,0,0
+2014,Illinois5,democrat,democrat,1,0.6573377173354242
+2014,Illinois6,republican,republican,1,0.5922135106046994
+2014,Illinois7,democrat,democrat,1,0.8464014523364812
+2014,Illinois8,democrat,democrat,1,0.547421645206295
+2014,Illinois9,democrat,democrat,1,0.6632551300683782
+2014,Indiana1,democrat,democrat,1,0.6728319846326971
+2014,Indiana2,republican,republican,1,0.4901106134015906
+2014,Indiana3,republican,republican,1,0.6704087640730102
+2014,Indiana4,republican,republican,1,0.6195660158373367
+2014,Indiana5,republican,republican,0,0
+2014,Indiana6,republican,republican,1,0.5907764856332174
+2014,Indiana7,democrat,democrat,1,0.6285016476061253
+2014,Indiana8,republican,republican,1,0.5335819318854053
+2014,Indiana9,republican,republican,1,0.5544704540881347
+2014,Iowa1,republican,democrat,0,0
+2014,Iowa2,democrat,democrat,1,0.5556697921447774
+2014,Iowa3,republican,republican,0,0
+2014,Iowa4,republican,republican,1,0.529431067288023
+2014,Kansas1,republican,republican,1,1.0
+2014,Kansas2,republican,republican,1,0.5701489183502543
+2014,Kansas3,republican,republican,1,0.6845235258474548
+2014,Kansas4,republican,republican,1,0.6221719282254887
+2014,Kentucky1,republican,republican,1,0.6963347321133186
+2014,Kentucky2,republican,republican,1,0.6430365575855485
+2014,Kentucky3,democrat,democrat,1,0.6396440791431122
+2014,Kentucky4,republican,republican,1,0.6212714230373626
+2014,Kentucky5,republican,republican,1,0.7789679296804927
+2014,Kentucky6,republican,republican,0,0
+2014,Louisiana1,republican,republican,1,0.6662855962260252
+2014,Louisiana2,democrat,democrat,1,0.5515879368305296
+2014,Louisiana3,republican,republican,0,0
+2014,Louisiana4,republican,republican,1,0.7529886066260304
+2014,Louisiana5,republican,republican,0,0
+2014,Louisiana6,republican,republican,0,0
+2014,Maine1,democrat,democrat,1,0.6208397357603457
+2014,Maine2,republican,democrat,0,0
+2014,Maryland1,republican,republican,1,0.6341899573661771
+2014,Maryland2,democrat,democrat,1,0.6558356423599379
+2014,Maryland3,democrat,democrat,1,0.6682538243413504
+2014,Maryland4,democrat,democrat,1,0.7716717173014201
+2014,Maryland5,democrat,democrat,1,0.6940201268105404
+2014,Maryland6,democrat,democrat,0,0
+2014,Maryland7,democrat,democrat,1,0.7651520298439247
+2014,Maryland8,democrat,democrat,1,0.6337281795511222
+2014,Massachusetts1,democrat,democrat,1,0.7782858670945314
+2014,Massachusetts2,democrat,democrat,1,0.7564335231781897
+2014,Massachusetts3,democrat,democrat,1,0.6329813106701958
+2014,Massachusetts4,democrat,democrat,1,0.593124353414774
+2014,Massachusetts5,democrat,democrat,0,0
+2014,Massachusetts6,democrat,democrat,0,0
+2014,Massachusetts7,democrat,democrat,1,0.7392804786521425
+2014,Massachusetts8,democrat,democrat,1,0.7102589764698919
+2014,Massachusetts9,democrat,democrat,1,0.5514633267582342
+2014,Michigan1,republican,republican,1,0.4813895924642041
+2014,Michigan10,republican,republican,1,0.6879693985612212
+2014,Michigan11,republican,republican,0,0
+2014,Michigan12,democrat,democrat,0,0
+2014,Michigan13,democrat,democrat,0,0
+2014,Michigan14,democrat,democrat,0,0
+2014,Michigan2,republican,republican,1,0.611602836612027
+2014,Michigan3,republican,republican,1,0.5261536764097424
+2014,Michigan4,republican,republican,0,0
+2014,Michigan5,democrat,democrat,1,0.6498064492678997
+2014,Michigan6,republican,republican,1,0.545924019034246
+2014,Michigan7,republican,republican,1,0.5334314252567839
+2014,Michigan8,republican,republican,0,0
+2014,Michigan9,democrat,democrat,1,0.6191405091961247
+2014,Minnesota1,democratic-farmer-labor,democrat,1,0.575238180302489
+2014,Minnesota2,republican,republican,1,0.5400729817043571
+2014,Minnesota3,republican,republican,1,0.5809566114892671
+2014,Minnesota4,democratic-farmer-labor,democrat,1,0.622674149618812
+2014,Minnesota5,democrat,democrat,1,0.7446735365898701
+2014,Minnesota6,republican,republican,0,0
+2014,Minnesota7,democratic-farmer-labor,democrat,1,0.6038018658265563
+2014,Minnesota8,democrat,democratic-farmer-labor,0,0
+2014,Mississippi1,republican,republican,1,0.6040552822493265
+2014,Mississippi2,democrat,democrat,1,0.6712943880291278
+2014,Mississippi3,republican,republican,1,0.8002025078241659
+2014,Mississippi4,republican,republican,1,0.6411264329157207
+2014,Missouri1,democrat,democrat,1,0.7866716776820922
+2014,Missouri2,republican,republican,1,0.6007661339390743
+2014,Missouri3,republican,republican,1,0.6349069846476646
+2014,Missouri4,republican,republican,1,0.6031475607345563
+2014,Missouri5,democrat,democrat,1,0.6052117893769905
+2014,Missouri6,republican,republican,1,0.6500263719402556
+2014,Missouri7,republican,republican,1,0.6386553303633055
+2014,Missouri8,republican,republican,0,0
+2014,Montana0,republican,republican,0,0
+2014,Nebraska1,republican,republican,1,0.682906733829243
+2014,Nebraska2,democrat,republican,0,0
+2014,Nebraska3,republican,republican,1,0.7417141228941505
+2014,Nevada1,democrat,democrat,1,0.6356998627829404
+2014,Nevada2,republican,republican,1,0.5763495340185966
+2014,Nevada3,republican,republican,1,0.503605200295021
+2014,Nevada4,republican,democrat,0,0
+2014,New Hampshire1,republican,democrat,0,0
+2014,New Hampshire2,democrat,democrat,0,0
+2014,New Jersey1,democrat,democrat,0,0
+2014,New Jersey10,democrat,democrat,0,0
+2014,New Jersey11,republican,republican,1,0.588128794064397
+2014,New Jersey12,democrat,democrat,0,0
+2014,New Jersey2,republican,republican,1,0.5765993586306384
+2014,New Jersey3,republican,republican,0,0
+2014,New Jersey4,republican,republican,1,0.6372144053656036
+2014,New Jersey5,republican,republican,1,0.5503185257465396
+2014,New Jersey6,democrat,democrat,0,0
+2014,New Jersey7,republican,republican,1,0.5716024274766933
+2014,New Jersey8,democrat,democrat,1,0.7798617319268133
+2014,New Jersey9,democrat,democrat,0,0
+2014,New Mexico1,democrat,democrat,1,0.5906124934748564
+2014,New Mexico2,republican,republican,1,0.5905593862935946
+2014,New Mexico3,democrat,democrat,0,0
+2014,New York1,republican,democrat,0,0
+2014,New York10,democrat,democrat,1,0.659724191043614
+2014,New York11,republican,republican,1,0.4238783730297316
+2014,New York12,democrat,democrat,1,0.6890531408528926
+2014,New York13,democrat,democrat,1,0.7310912116377609
+2014,New York14,democrat,democrat,1,0.6790666393754203
+2014,New York15,democrat,democrat,1,0.8410143021075317
+2014,New York16,democrat,democrat,1,0.6432561408700799
+2014,New York17,democrat,democrat,1,0.5434950013282713
+2014,New York18,democrat,democrat,1,0.4483407573890792
+2014,New York19,republican,republican,1,0.40098469344387705
+2014,New York2,republican,republican,1,0.4270394949821949
+2014,New York20,democrat,democrat,1,0.5700489174572996
+2014,New York21,republican,democrat,0,0
+2014,New York22,republican,republican,1,0.5176577238935147
+2014,New York23,republican,republican,1,0.4204527584382908
+2014,New York24,republican,democrat,0,0
+2014,New York25,democrat,democrat,1,0.5228683851778411
+2014,New York26,democrat,democrat,1,0.6401933361970875
+2014,New York27,republican,democrat,0,0
+2014,New York3,democrat,democrat,1,0.47674957717599276
+2014,New York4,democrat,democrat,0,0
+2014,New York5,democrat,democrat,1,0.7475680153936608
+2014,New York6,democrat,democrat,1,0.5751021761924122
+2014,New York7,democrat,democrat,0,0
+2014,New York8,democrat,democrat,1,0.7562126521422646
+2014,New York9,democrat,democrat,1,0.7456069502044301
+2014,North Carolina1,democrat,democrat,1,0.7532375334993758
+2014,North Carolina10,republican,republican,1,0.569886725061147
+2014,North Carolina11,republican,republican,1,0.5742428174011694
+2014,North Carolina12,democrat,democrat,0,0
+2014,North Carolina13,republican,republican,1,0.5679690240414452
+2014,North Carolina2,republican,republican,1,0.5589841905991387
+2014,North Carolina3,republican,republican,1,0.6311083143746874
+2014,North Carolina4,democrat,democrat,1,0.7447494153263412
+2014,North Carolina5,republican,republican,1,0.5754488154251038
+2014,North Carolina6,republican,republican,0,0
+2014,North Carolina7,republican,democrat,0,0
+2014,North Carolina8,republican,republican,1,0.5316097657800715
+2014,North Carolina9,republican,republican,1,0.5178125582261971
+2014,North Dakota0,republican,republican,1,0.5489305049585104
+2014,Ohio1,republican,republican,1,0.5773456175868419
+2014,Ohio10,republican,republican,1,0.595419694512842
+2014,Ohio11,democrat,democrat,1,1.0
+2014,Ohio12,republican,republican,1,0.6346960708218219
+2014,Ohio13,democrat,democrat,1,0.727698602029591
+2014,Ohio14,republican,republican,1,0.5403361047856097
+2014,Ohio15,republican,republican,1,0.615584384427611
+2014,Ohio16,republican,republican,1,0.5204699731564375
+2014,Ohio2,republican,republican,0,0
+2014,Ohio3,democrat,democrat,1,0.6828873134631256
+2014,Ohio4,republican,republican,1,0.5835276902727813
+2014,Ohio5,republican,republican,1,0.5726814407266154
+2014,Ohio6,republican,republican,1,0.5325134312900511
+2014,Ohio7,republican,republican,1,0.563955771154991
+2014,Ohio8,republican,republican,1,0.992195428405741
+2014,Ohio9,democrat,democrat,1,0.730373217423968
+2014,Oklahoma1,republican,republican,1,0.634687640197398
+2014,Oklahoma2,republican,republican,1,0.5734003160263674
+2014,Oklahoma3,republican,republican,1,0.7527676928989601
+2014,Oklahoma4,republican,republican,1,0.6789049325666171
+2014,Oklahoma5,republican,republican,0,0
+2014,Oregon1,democrat,democrat,1,0.595954575576842
+2014,Oregon2,republican,republican,1,0.6863493401152729
+2014,Oregon3,democrat,democrat,1,0.7445844748858448
+2014,Oregon4,democrat,democrat,1,0.5911499411255027
+2014,Oregon5,democrat,democrat,1,0.5403817422325212
+2014,Pennsylvania1,democrat,democrat,1,0.8494850271741091
+2014,Pennsylvania10,republican,republican,1,0.6558420687388145
+2014,Pennsylvania11,republican,republican,1,0.5854423944066929
+2014,Pennsylvania12,republican,republican,1,0.5173525775872497
+2014,Pennsylvania13,democrat,democrat,0,0
+2014,Pennsylvania14,democrat,democrat,1,0.768943394153232
+2014,Pennsylvania15,republican,republican,1,0.5675054748693421
+2014,Pennsylvania16,republican,republican,1,0.548463556206348
+2014,Pennsylvania17,democrat,democrat,0,0
+2014,Pennsylvania18,republican,republican,1,0.6395522806479124
+2014,Pennsylvania2,democrat,democrat,1,0.8927847895259634
+2014,Pennsylvania3,republican,republican,1,0.5481597545898702
+2014,Pennsylvania4,republican,republican,1,0.5974175932627146
+2014,Pennsylvania5,republican,republican,1,0.6292461012868851
+2014,Pennsylvania6,republican,republican,0,0
+2014,Pennsylvania7,republican,republican,1,0.5939776659282333
+2014,Pennsylvania8,republican,republican,1,0.5660348968595098
+2014,Pennsylvania9,republican,republican,1,0.616747780754999
+2014,Rhode Island1,democrat,democrat,1,0.5295175876947078
+2014,Rhode Island2,democrat,democrat,1,0.5572038084972604
+2014,South Carolina1,republican,republican,0,0
+2014,South Carolina2,republican,republican,1,0.9626837098341825
+2014,South Carolina3,republican,republican,1,0.6653713451325349
+2014,South Carolina4,republican,republican,1,0.6489748355090601
+2014,South Carolina5,republican,republican,1,0.5551163116944782
+2014,South Carolina6,democrat,democrat,1,0.9362284099907968
+2014,South Carolina7,republican,republican,1,0.5551211657442935
+2014,South Dakota0,republican,republican,1,0.5744973424932698
+2014,Tennessee1,republican,republican,1,0.7604225775226142
+2014,Tennessee2,republican,republican,0,0
+2014,Tennessee3,republican,republican,1,0.6143420432915935
+2014,Tennessee4,republican,republican,0,0
+2014,Tennessee5,democrat,democrat,1,0.6523157034531253
+2014,Tennessee6,republican,republican,1,0.7643103784182622
+2014,Tennessee7,republican,republican,1,0.7101661057262559
+2014,Tennessee8,republican,republican,1,0.6832783388566398
+2014,Tennessee9,democrat,democrat,1,0.7507241410909729
+2014,Texas1,republican,republican,1,0.7142651146768779
+2014,Texas10,republican,republican,1,0.605195080657074
+2014,Texas11,republican,republican,1,0.7863889958101609
+2014,Texas12,republican,republican,1,0.709085550962408
+2014,Texas13,republican,republican,1,0.9098154931488265
+2014,Texas14,republican,republican,0,0
+2014,Texas15,democrat,democrat,1,0.6088598877683911
+2014,Texas16,democrat,democrat,1,0.6541918002645076
+2014,Texas17,republican,republican,1,0.7992993495553994
+2014,Texas18,democrat,democrat,1,0.7501231198571809
+2014,Texas19,republican,republican,1,0.8499242436075662
+2014,Texas2,republican,republican,1,0.6481764151862557
+2014,Texas20,democrat,democrat,1,0.6393485768918824
+2014,Texas21,republican,republican,1,0.6054910721512635
+2014,Texas22,republican,republican,1,0.6403386061193013
+2014,Texas23,republican,democrat,0,0
+2014,Texas24,republican,republican,1,0.61023701276033
+2014,Texas25,republican,republican,1,0.5844118939726899
+2014,Texas26,republican,republican,1,0.6827456391584822
+2014,Texas27,republican,republican,1,0.5675214318296176
+2014,Texas28,democrat,democrat,1,0.6788976425488243
+2014,Texas29,democrat,democrat,1,0.9000324230475573
+2014,Texas3,republican,republican,1,1.0
+2014,Texas30,democrat,democrat,1,0.7882394684213921
+2014,Texas31,republican,republican,1,0.6127991837663953
+2014,Texas32,republican,republican,1,0.5827981687834809
+2014,Texas33,democrat,democrat,0,0
+2014,Texas34,democrat,democrat,1,0.6189200016577104
+2014,Texas35,democrat,democrat,1,0.6394638543640535
+2014,Texas36,republican,republican,0,0
+2014,Texas4,republican,republican,0,0
+2014,Texas5,republican,republican,1,0.6439562022763291
+2014,Texas6,republican,republican,1,0.5802245374815953
+2014,Texas7,republican,republican,1,0.6080515421334798
+2014,Texas8,republican,republican,1,0.7729195545146026
+2014,Texas9,democrat,democrat,1,0.7848675680681608
+2014,Utah1,republican,republican,1,0.7147331465250399
+2014,Utah2,republican,republican,1,0.6217103542618037
+2014,Utah3,republican,republican,1,0.7660577852951489
+2014,Utah4,republican,democrat,0,0
+2014,Vermont0,democrat,democrat,1,0.7194815318127417
+2014,Virginia1,republican,republican,1,0.5628969243790743
+2014,Virginia10,republican,republican,0,0
+2014,Virginia11,democrat,democrat,1,0.6098126973329762
+2014,Virginia2,republican,republican,1,0.5375781800777435
+2014,Virginia3,democrat,democrat,1,0.812699099505857
+2014,Virginia4,republican,republican,1,0.5693308879404421
+2014,Virginia5,republican,republican,1,0.5544467138355295
+2014,Virginia6,republican,republican,1,0.6523080153013495
+2014,Virginia7,republican,republican,0,0
+2014,Virginia8,democrat,democrat,0,0
+2014,Virginia9,republican,republican,1,0.6128861160652129
+2014,Washington1,democrat,democrat,0,0
+2014,Washington10,democrat,democrat,1,0.585582058566826
+2014,Washington2,democrat,democrat,1,0.6114174752142802
+2014,Washington3,republican,republican,1,0.6037960555865579
+2014,Washington4,republican,republican,0,0
+2014,Washington5,republican,republican,1,0.6191821840831168
+2014,Washington6,democrat,democrat,1,0.589978696908207
+2014,Washington7,democrat,democrat,1,0.7965401249399328
+2014,Washington8,republican,republican,1,0.5965242146380217
+2014,Washington9,democrat,democrat,1,0.7161733280127098
+2014,West Virginia1,republican,republican,1,0.6248348128189922
+2014,West Virginia2,republican,republican,0,0
+2014,West Virginia3,republican,democrat,0,0
+2014,Wisconsin1,republican,republican,1,0.5490168685523944
+2014,Wisconsin2,democrat,democrat,1,0.6790057764429596
+2014,Wisconsin3,democrat,democrat,1,0.6407741844339012
+2014,Wisconsin4,democrat,democrat,1,0.7221168367159011
+2014,Wisconsin5,republican,republican,0,0
+2014,Wisconsin6,republican,republican,0,0
+2014,Wisconsin7,republican,republican,1,0.5608490028331605
+2014,Wisconsin8,republican,republican,1,0.559477190376522
+2014,Wyoming0,republican,republican,1,0.6639489429597129
+2016,Alabama1,republican,republican,1,0.6815691632618206
+2016,Alabama2,republican,republican,1,0.6734245498713918
+2016,Alabama3,republican,republican,1,0.6612054654577959
+2016,Alabama4,republican,republican,1,0.9857441819045357
+2016,Alabama5,republican,republican,1,0.7442409694529405
+2016,Alabama6,republican,republican,0,0
+2016,Alabama7,democrat,democrat,1,0.9837232062046078
+2016,Alaska0,republican,republican,1,0.5096571471468251
+2016,Arizona1,democrat,democrat,0,0
+2016,Arizona2,republican,republican,1,0.5001299287443413
+2016,Arizona3,democrat,democrat,1,0.5572451832841766
+2016,Arizona4,republican,republican,1,0.699627238424697
+2016,Arizona5,republican,republican,0,0
+2016,Arizona6,republican,republican,1,0.6486164504244755
+2016,Arizona7,democrat,democrat,1,0.7485439037182212
+2016,Arizona8,republican,republican,1,0.7581165771369334
+2016,Arizona9,democrat,democrat,1,0.5467598820204613
+2016,Arkansas1,republican,republican,1,0.632536075330181
+2016,Arkansas2,republican,republican,0,0
+2016,Arkansas3,republican,republican,1,0.7941446041846701
+2016,Arkansas4,republican,republican,1,0.5374688911420408
+2016,California1,republican,republican,1,0.6103007782892426
+2016,California10,republican,republican,0,0
+2016,California11,democrat,democrat,1,0.6727393479978473
+2016,California12,democrat,democrat,1,0.8325375525319353
+2016,California13,democrat,democrat,1,0.8847876658737286
+2016,California14,democrat,democrat,1,0.7669598916497928
+2016,California15,democrat,democrat,1,0.6980532657831022
+2016,California16,democrat,democrat,1,0.5073119929839948
+2016,California17,democrat,democrat,0,0
+2016,California18,democrat,democrat,1,0.6775432057274958
+2016,California19,democrat,democrat,1,0.6721131874667418
+2016,California2,democrat,democrat,1,0.7499126533164157
+2016,California20,democrat,democrat,0,0
+2016,California21,republican,republican,1,0.5783413331317636
+2016,California22,republican,republican,1,0.7203506772059816
+2016,California23,republican,republican,1,0.7483941720194266
+2016,California24,democrat,democrat,0,0
+2016,California25,republican,republican,0,0
+2016,California26,democrat,democrat,1,0.5133163358437016
+2016,California27,democrat,democrat,1,0.5935726602915817
+2016,California28,democrat,democrat,1,0.764950442360141
+2016,California29,democrat,democrat,1,0.746131275971463
+2016,California3,democrat,democrat,1,0.527246106748303
+2016,California30,democrat,democrat,1,0.656399990901026
+2016,California31,democrat,democrat,1,0.5173374488896015
+2016,California32,democrat,democrat,1,0.5965571167926451
+2016,California33,democrat,democrat,1,0.5918724150553731
+2016,California34,democrat,democrat,1,0.7253533697927654
+2016,California35,democrat,democrat,1,0.634519315717613
+2016,California36,democrat,democrat,1,0.5418409262034158
+2016,California37,democrat,democrat,1,0.8428133544645501
+2016,California38,democrat,democrat,1,0.5909017059301381
+2016,California39,republican,republican,1,0.6854494276599737
+2016,California4,republican,republican,1,0.6004906836416684
+2016,California40,democrat,democrat,1,0.6117580347921181
+2016,California41,democrat,democrat,1,0.5664301915930698
+2016,California42,republican,republican,1,0.6573771937560632
+2016,California43,democrat,democrat,1,0.7095680332376123
+2016,California44,democrat,democrat,0,0
+2016,California45,republican,republican,1,0.6512074744324808
+2016,California46,democrat,democrat,0,0
+2016,California47,democrat,democrat,1,0.5598946515397083
+2016,California48,republican,republican,0,0
+2016,California49,republican,republican,1,0.6016905517892388
+2016,California5,democrat,democrat,1,0.7573153060509034
+2016,California50,republican,republican,1,0.712000712019784
+2016,California51,democrat,democrat,1,0.6878950579621721
+2016,California52,democrat,democrat,1,0.5158687073267492
+2016,California53,democrat,democrat,1,0.5883656210315852
+2016,California6,democrat,democrat,1,0.7268912600407625
+2016,California7,democrat,democrat,1,0.5039626988839079
+2016,California8,republican,republican,1,0.6764685339107355
+2016,California9,democrat,democrat,1,0.5237038381571565
+2016,Colorado1,democrat,democrat,1,0.658114717013652
+2016,Colorado2,democrat,democrat,1,0.5674312390697943
+2016,Colorado3,republican,republican,1,0.5798193788881736
+2016,Colorado4,republican,republican,1,0.646727654123634
+2016,Colorado5,republican,republican,1,0.5979798748359362
+2016,Colorado6,republican,republican,1,0.5189806106207495
+2016,Colorado7,democrat,democrat,1,0.5507295378293323
+2016,Connecticut1,democrat,democrat,1,0.5848605431405217
+2016,Connecticut2,democrat,democrat,1,0.5760125649305068
+2016,Connecticut3,democrat,democrat,1,0.6192703594853743
+2016,Connecticut4,democrat,democrat,1,0.5100653923541247
+2016,Connecticut5,democrat,democrat,0,0
+2016,Delaware0,democrat,democrat,0,0
+2016,Florida1,republican,republican,0,0
+2016,Florida10,democrat,republican,0,0
+2016,Florida11,republican,republican,0,0
+2016,Florida12,republican,republican,1,1.0
+2016,Florida13,democrat,republican,0,0
+2016,Florida14,democrat,democrat,1,1.0
+2016,Florida15,republican,republican,1,0.602812971130526
+2016,Florida16,republican,republican,1,0.615386294750554
+2016,Florida17,republican,republican,1,0.632353992742094
+2016,Florida18,republican,democrat,0,0
+2016,Florida19,republican,republican,0,0
+2016,Florida2,republican,democrat,0,0
+2016,Florida20,democrat,democrat,1,0.8160364777158243
+2016,Florida21,democrat,democrat,0,0
+2016,Florida22,democrat,democrat,0,0
+2016,Florida23,democrat,democrat,1,0.6266779134402991
+2016,Florida24,democrat,democrat,1,0.8617510905961926
+2016,Florida25,republican,republican,1,1.0
+2016,Florida26,republican,republican,1,0.5146432622399078
+2016,Florida27,republican,republican,1,1.0
+2016,Florida3,republican,republican,1,0.649847689557666
+2016,Florida4,republican,republican,0,0
+2016,Florida5,democrat,democrat,0,0
+2016,Florida6,republican,republican,1,0.6254453251673143
+2016,Florida7,democrat,republican,0,0
+2016,Florida8,republican,republican,1,0.658358620538918
+2016,Florida9,democrat,democrat,0,0
+2016,Georgia1,republican,republican,0,0
+2016,Georgia10,republican,republican,1,0.6652229234527687
+2016,Georgia11,republican,republican,0,0
+2016,Georgia12,republican,republican,0,0
+2016,Georgia13,democrat,democrat,1,1.0
+2016,Georgia14,republican,republican,1,1.0
+2016,Georgia2,democrat,democrat,0,0
+2016,Georgia3,republican,republican,0,0
+2016,Georgia4,democrat,democrat,0,0
+2016,Georgia5,democrat,democrat,1,1.0
+2016,Georgia6,republican,republican,1,0.6604055029833162
+2016,Georgia7,republican,republican,1,0.6538702934893389
+2016,Georgia8,republican,republican,1,0.9990850165696579
+2016,Georgia9,republican,republican,1,0.8067463144929218
+2016,Hawaii1,democrat,democrat,0,0
+2016,Hawaii2,democrat,democrat,1,0.7576493184303892
+2016,Idaho1,republican,republican,1,0.6500833091857433
+2016,Idaho2,republican,republican,1,0.6136084706453314
+2016,Illinois1,democrat,democrat,1,0.7308809685744785
+2016,Illinois10,democrat,republican,0,0
+2016,Illinois11,democrat,democrat,1,0.5346165289634496
+2016,Illinois12,republican,republican,1,0.5246450333272941
+2016,Illinois13,republican,republican,1,0.5865593136508903
+2016,Illinois14,republican,republican,1,0.6541376051838186
+2016,Illinois15,republican,republican,1,0.7492317258906122
+2016,Illinois16,republican,republican,1,0.7062127643900957
+2016,Illinois17,democrat,democrat,1,0.5545718570833814
+2016,Illinois18,republican,republican,0,0
+2016,Illinois2,democrat,democrat,1,0.7849421832316685
+2016,Illinois3,democrat,democrat,1,0.6456221835171823
+2016,Illinois4,democrat,democrat,1,0.7814682570823197
+2016,Illinois5,democrat,democrat,1,0.632347746700069
+2016,Illinois6,republican,republican,1,0.6713535383996784
+2016,Illinois7,democrat,democrat,1,0.8509529400147028
+2016,Illinois8,democrat,democrat,0,0
+2016,Illinois9,democrat,democrat,1,0.6605762473647224
+2016,Indiana1,democrat,democrat,1,0.6084557919223011
+2016,Indiana2,republican,republican,1,0.5894146005509642
+2016,Indiana3,republican,republican,0,0
+2016,Indiana4,republican,republican,1,0.6687456882593943
+2016,Indiana5,republican,republican,1,0.6521122398414272
+2016,Indiana6,republican,republican,1,0.6589691173720424
+2016,Indiana7,democrat,democrat,1,0.5473227567899805
+2016,Indiana8,republican,republican,1,0.603239646265651
+2016,Indiana9,republican,republican,0,0
+2016,Iowa1,republican,republican,1,0.5107464069186259
+2016,Iowa2,democrat,democrat,1,0.5247558802761507
+2016,Iowa3,republican,republican,1,0.5275857423439904
+2016,Iowa4,republican,republican,1,0.6161598937717907
+2016,Kansas1,republican,republican,0,0
+2016,Kansas2,republican,republican,1,0.5704474358179062
+2016,Kansas3,republican,republican,1,0.6002088567769115
+2016,Kansas4,republican,republican,1,0.6666106181510716
+2016,Kentucky1,republican,republican,0,0
+2016,Kentucky2,republican,republican,1,0.6918539548744898
+2016,Kentucky3,democrat,democrat,1,0.6349416830062057
+2016,Kentucky4,republican,republican,1,0.6772837349994149
+2016,Kentucky5,republican,republican,1,0.7825380080103395
+2016,Kentucky6,republican,republican,1,0.5999495307170708
+2016,Louisiana1,republican,republican,1,0.7756020393108309
+2016,Louisiana2,democrat,democrat,1,0.6869206119962089
+2016,Louisiana3,republican,republican,0,0
+2016,Louisiana4,republican,republican,0,0
+2016,Louisiana5,republican,republican,1,0.41284006955497693
+2016,Louisiana6,republican,republican,1,0.4181856960899762
+2016,Maine1,democrat,democrat,1,0.579756325565939
+2016,Maine2,republican,republican,1,0.45191841604832395
+2016,Maryland1,republican,republican,1,0.7041905933279556
+2016,Maryland2,democrat,democrat,1,0.6132393534127137
+2016,Maryland3,democrat,democrat,1,0.5954914654589574
+2016,Maryland4,democrat,democrat,0,0
+2016,Maryland5,democrat,democrat,1,0.6402627853477261
+2016,Maryland6,democrat,democrat,1,0.49703992946214887
+2016,Maryland7,democrat,democrat,1,0.699384456189044
+2016,Maryland8,democrat,democrat,0,0
+2016,Massachusetts1,democrat,democrat,1,0.7381349774303644
+2016,Massachusetts2,democrat,democrat,1,0.7193835793616128
+2016,Massachusetts3,democrat,democrat,1,0.6027323659273189
+2016,Massachusetts4,democrat,democrat,1,0.721348076945675
+2016,Massachusetts5,democrat,democrat,1,0.7099802718277021
+2016,Massachusetts6,democrat,democrat,0,0
+2016,Massachusetts7,democrat,democrat,1,0.8072207045781107
+2016,Massachusetts8,democrat,democrat,1,0.7664574587154912
+2016,Massachusetts9,democrat,democrat,1,0.5307576582297621
+2016,Michigan1,republican,republican,0,0
+2016,Michigan10,republican,republican,0,0
+2016,Michigan11,republican,republican,0,0
+2016,Michigan12,democrat,democrat,1,0.6500822607180877
+2016,Michigan13,democrat,democrat,0,0
+2016,Michigan14,democrat,democrat,0,0
+2016,Michigan2,republican,republican,1,0.6362544116542765
+2016,Michigan3,republican,republican,1,0.5790712131328714
+2016,Michigan4,republican,republican,0,0
+2016,Michigan5,democrat,democrat,1,0.6670718202198633
+2016,Michigan6,republican,republican,1,0.5589206416047776
+2016,Michigan7,republican,republican,1,0.5345195252252051
+2016,Michigan8,republican,republican,1,0.5459701799485861
+2016,Michigan9,democrat,democrat,1,0.603932546942066
+2016,Minnesota1,democrat,democratic-farmer-labor,1,0.5419219656366484
+2016,Minnesota2,republican,republican,0,0
+2016,Minnesota3,republican,republican,1,0.6213810115547972
+2016,Minnesota4,democrat,democratic-farmer-labor,1,0.611897184619905
+2016,Minnesota5,democrat,democrat,1,0.7079318672937588
+2016,Minnesota6,republican,republican,1,0.562931187353808
+2016,Minnesota7,democrat,democratic-farmer-labor,1,0.5420557643199702
+2016,Minnesota8,democrat,democrat,1,0.485149370685087
+2016,Mississippi1,republican,republican,0,0
+2016,Mississippi2,democrat,democrat,1,0.6773677058245765
+2016,Mississippi3,republican,republican,1,0.6889368572531677
+2016,Mississippi4,republican,republican,1,0.6991823931711832
+2016,Missouri1,democrat,democrat,1,0.7297821326776518
+2016,Missouri2,republican,republican,1,0.6411947195576266
+2016,Missouri3,republican,republican,1,0.6833315937793549
+2016,Missouri4,republican,republican,1,0.6807914411808085
+2016,Missouri5,democrat,democrat,1,0.5158720343671689
+2016,Missouri6,republican,republican,1,0.6665026474835535
+2016,Missouri7,republican,republican,1,0.6346420097952512
+2016,Missouri8,republican,republican,0,0
+2016,Montana0,republican,republican,0,0
+2016,Nebraska1,republican,republican,1,0.6881551684659075
+2016,Nebraska2,republican,democrat,0,0
+2016,Nebraska3,republican,republican,1,0.7538764300080015
+2016,Nevada1,democrat,democrat,1,0.5684130562024434
+2016,Nevada2,republican,republican,1,0.6573331185220987
+2016,Nevada3,democrat,republican,0,0
+2016,Nevada4,democrat,republican,0,0
+2016,New Hampshire1,democrat,republican,0,0
+2016,New Hampshire2,democrat,democrat,1,0.5487354314311624
+2016,New Jersey1,democrat,democrat,0,0
+2016,New Jersey10,democrat,democrat,0,0
+2016,New Jersey11,republican,republican,1,0.6257002721057325
+2016,New Jersey12,democrat,democrat,0,0
+2016,New Jersey2,republican,republican,1,0.6145990922844176
+2016,New Jersey3,republican,republican,0,0
+2016,New Jersey4,republican,republican,1,0.679592105187905
+2016,New Jersey5,democrat,republican,0,0
+2016,New Jersey6,democrat,democrat,0,0
+2016,New Jersey7,republican,republican,1,0.592549873009199
+2016,New Jersey8,democrat,democrat,1,0.7735355516989864
+2016,New Jersey9,democrat,democrat,0,0
+2016,New Mexico1,democrat,democrat,1,0.5858625133309634
+2016,New Mexico2,republican,republican,0,0
+2016,New Mexico3,democrat,democrat,1,0.6152295790868989
+2016,New York1,republican,republican,1,0.4360708243029895
+2016,New York10,democrat,democrat,1,0.6530743822090332
+2016,New York11,republican,republican,0,0
+2016,New York12,democrat,democrat,1,0.6680292965423267
+2016,New York13,democrat,democrat,0,0
+2016,New York14,democrat,democrat,1,0.67342516178828
+2016,New York15,democrat,democrat,1,0.8671410850688778
+2016,New York16,democrat,democrat,1,0.6497277415167142
+2016,New York17,democrat,democrat,1,0.491512269229499
+2016,New York18,democrat,democrat,1,0.40829606619714537
+2016,New York19,republican,republican,0,0
+2016,New York2,republican,republican,1,0.5228520567192072
+2016,New York20,democrat,democrat,1,0.4879909419007855
+2016,New York21,republican,republican,1,0.43851000782119215
+2016,New York22,republican,republican,0,0
+2016,New York23,republican,republican,1,0.49526643366184914
+2016,New York24,republican,republican,0,0
+2016,New York25,democrat,democrat,1,0.4440554458670032
+2016,New York26,democrat,democrat,1,0.5787328001104013
+2016,New York27,republican,republican,1,0.5074251558236926
+2016,New York3,democrat,democrat,0,0
+2016,New York4,democrat,democrat,1,0.4778642936596218
+2016,New York5,democrat,democrat,1,0.8020338983050848
+2016,New York6,democrat,democrat,1,0.6367811036659509
+2016,New York7,democrat,democrat,0,0
+2016,New York8,democrat,democrat,1,0.7408976690883475
+2016,New York9,democrat,democrat,1,0.6987481054268448
+2016,North Carolina1,democrat,democrat,1,0.7337904080866097
+2016,North Carolina10,republican,republican,1,0.6101756887694474
+2016,North Carolina11,republican,republican,1,0.6289865405349007
+2016,North Carolina12,democrat,democrat,0,0
+2016,North Carolina13,republican,republican,0,0
+2016,North Carolina2,republican,republican,0,0
+2016,North Carolina3,republican,republican,1,0.6780984158329159
+2016,North Carolina4,democrat,democrat,1,0.7474687942576156
+2016,North Carolina5,republican,republican,1,0.610198377232182
+2016,North Carolina6,republican,republican,1,0.586736766638786
+2016,North Carolina7,republican,republican,1,0.593503867481369
+2016,North Carolina8,republican,republican,1,0.6486324977857455
+2016,North Carolina9,republican,republican,1,0.9390330976345671
+2016,North Dakota0,republican,republican,1,0.5553544858648007
+2016,Ohio1,republican,republican,1,0.6321669039380291
+2016,Ohio10,republican,republican,1,0.6517850911737435
+2016,Ohio11,democrat,democrat,1,0.7945076086830546
+2016,Ohio12,republican,republican,1,0.6810761666538508
+2016,Ohio13,democrat,democrat,1,0.6848800050128454
+2016,Ohio14,republican,republican,1,0.6325659427719266
+2016,Ohio15,republican,republican,1,0.6602370761634151
+2016,Ohio16,republican,republican,1,0.6373767329716696
+2016,Ohio2,republican,republican,1,0.6596257787987728
+2016,Ohio3,democrat,democrat,1,0.6405721026657639
+2016,Ohio4,republican,republican,1,0.6766574229330582
+2016,Ohio5,republican,republican,1,0.6646020761245675
+2016,Ohio6,republican,republican,1,0.5823489918804943
+2016,Ohio7,republican,republican,1,1.0
+2016,Ohio8,republican,republican,0,0
+2016,Ohio9,democrat,democrat,1,0.6774103226207884
+2016,Oklahoma1,republican,republican,1,1.0
+2016,Oklahoma2,republican,republican,1,0.7002531453786764
+2016,Oklahoma3,republican,republican,1,0.7861501724595383
+2016,Oklahoma4,republican,republican,1,0.7080195828421585
+2016,Oklahoma5,republican,republican,1,0.600956432669528
+2016,Oregon1,democrat,democrat,1,0.5730932165455698
+2016,Oregon2,republican,republican,1,0.70409324171523
+2016,Oregon3,democrat,democrat,1,0.7232892808711662
+2016,Oregon4,democrat,democrat,1,0.5855457655095928
+2016,Oregon5,democrat,democrat,1,0.5369990892531876
+2016,Pennsylvania1,democrat,democrat,1,0.8283714442600084
+2016,Pennsylvania10,republican,republican,1,0.6258304588458424
+2016,Pennsylvania11,republican,republican,1,0.6630714919974877
+2016,Pennsylvania12,republican,republican,1,0.5927769878798265
+2016,Pennsylvania13,democrat,democrat,1,0.6711973934292697
+2016,Pennsylvania14,democrat,democrat,1,1.0
+2016,Pennsylvania15,republican,republican,1,1.0
+2016,Pennsylvania16,republican,republican,0,0
+2016,Pennsylvania17,democrat,democrat,1,0.5675821412775445
+2016,Pennsylvania18,republican,republican,1,1.0
+2016,Pennsylvania2,democrat,democrat,0,0
+2016,Pennsylvania3,republican,republican,1,0.606310240161883
+2016,Pennsylvania4,republican,republican,1,0.7453633323198541
+2016,Pennsylvania5,republican,republican,1,0.6359610078680947
+2016,Pennsylvania6,republican,republican,0,0
+2016,Pennsylvania7,republican,republican,1,0.6203891547049442
+2016,Pennsylvania8,republican,republican,0,0
+2016,Pennsylvania9,republican,republican,1,0.6352175493459961
+2016,Rhode Island1,democrat,democrat,1,0.5948631049585591
+2016,Rhode Island2,democrat,democrat,1,0.62221018928336
+2016,South Carolina1,republican,republican,1,0.9341000665023667
+2016,South Carolina2,republican,republican,1,0.6244558745020738
+2016,South Carolina3,republican,republican,1,0.7117963038613735
+2016,South Carolina4,republican,republican,1,0.848392139497749
+2016,South Carolina5,republican,republican,1,0.5885295041251535
+2016,South Carolina6,democrat,democrat,1,0.725050740347802
+2016,South Carolina7,republican,republican,1,0.5995254308434971
+2016,South Dakota0,republican,republican,1,0.6652962698909594
+2016,Tennessee1,republican,republican,1,0.8283716928371693
+2016,Tennessee2,republican,republican,0,0
+2016,Tennessee3,republican,republican,1,0.6236122411064915
+2016,Tennessee4,republican,republican,0,0
+2016,Tennessee5,democrat,democrat,1,0.6232207213046748
+2016,Tennessee6,republican,republican,1,0.7108768206691055
+2016,Tennessee7,republican,republican,1,0.6999943004426656
+2016,Tennessee8,republican,republican,0,0
+2016,Tennessee9,democrat,democrat,1,0.7496868296868296
+2016,Texas1,republican,republican,1,0.7746634356488961
+2016,Texas10,republican,republican,1,0.6218179757452114
+2016,Texas11,republican,republican,1,0.9026962383126766
+2016,Texas12,republican,republican,1,0.7130725130725131
+2016,Texas13,republican,republican,1,0.84321914629786
+2016,Texas14,republican,republican,1,0.6185122650962951
+2016,Texas15,democrat,democrat,0,0
+2016,Texas16,democrat,democrat,1,0.6748922782299432
+2016,Texas17,republican,republican,1,0.6458209460730817
+2016,Texas18,democrat,democrat,1,0.7178285067446467
+2016,Texas19,republican,republican,0,0
+2016,Texas2,republican,republican,1,0.6794555610360871
+2016,Texas20,democrat,democrat,1,0.7566049747624028
+2016,Texas21,republican,republican,1,0.7177929691633685
+2016,Texas22,republican,republican,1,0.665459271868361
+2016,Texas23,republican,republican,1,0.4977865181193634
+2016,Texas24,republican,republican,1,0.650448036759143
+2016,Texas25,republican,republican,1,0.6021935766768044
+2016,Texas26,republican,republican,1,0.8266346221813812
+2016,Texas27,republican,republican,1,0.6359703007317985
+2016,Texas28,democrat,democrat,1,0.8210045182305349
+2016,Texas29,democrat,democrat,1,0.8954987755455865
+2016,Texas3,republican,republican,1,0.8201041365345676
+2016,Texas30,democrat,democrat,1,0.8794627243768491
+2016,Texas31,republican,republican,1,0.6404829823531056
+2016,Texas32,republican,republican,1,0.6181772755227553
+2016,Texas33,democrat,democrat,1,0.865136780518659
+2016,Texas34,democrat,democrat,1,0.5947018541006798
+2016,Texas35,democrat,democrat,1,0.62482722785139
+2016,Texas36,republican,republican,1,0.7595747224339147
+2016,Texas4,republican,republican,1,1.0
+2016,Texas5,republican,republican,1,0.8535995856592047
+2016,Texas6,republican,republican,1,0.6114996423746324
+2016,Texas7,republican,republican,1,0.6326395240854914
+2016,Texas8,republican,republican,1,0.8932456271917608
+2016,Texas9,democrat,democrat,1,0.9082125042149692
+2016,Utah1,republican,republican,1,0.647761354722611
+2016,Utah2,republican,republican,1,0.608223657208526
+2016,Utah3,republican,republican,1,0.7220648057231028
+2016,Utah4,republican,republican,1,0.5091867797347249
+2016,Vermont0,democrat,democrat,1,0.6441066505138274
+2016,Virginia1,republican,republican,1,0.6290447999007733
+2016,Virginia10,republican,republican,0,0
+2016,Virginia11,democrat,democrat,1,0.5685684619685312
+2016,Virginia2,republican,republican,0,0
+2016,Virginia3,democrat,democrat,1,0.9443358977490129
+2016,Virginia4,democrat,republican,0,0
+2016,Virginia5,republican,republican,0,0
+2016,Virginia6,republican,republican,1,0.7450864736127496
+2016,Virginia7,republican,republican,0,0
+2016,Virginia8,democrat,democrat,1,0.6308081703401682
+2016,Virginia9,republican,republican,1,0.7214630101649111
+2016,Washington1,democrat,democrat,1,0.5503659471848
+2016,Washington10,democrat,democrat,1,0.5470158464284928
+2016,Washington2,democrat,democrat,1,0.6057434392213832
+2016,Washington3,republican,republican,1,0.615322413640084
+2016,Washington4,republican,republican,1,0.508051398297611
+2016,Washington5,republican,republican,1,0.6068302559554206
+2016,Washington6,democrat,democrat,1,0.6298319140398592
+2016,Washington7,democrat,democrat,0,0
+2016,Washington8,republican,republican,1,0.6326782192166808
+2016,Washington9,democrat,democrat,1,0.7082508963152152
+2016,West Virginia1,republican,republican,1,0.6390280301512399
+2016,West Virginia2,republican,republican,0,0
+2016,West Virginia3,republican,republican,0,0
+2016,Wisconsin1,republican,republican,0,0
+2016,Wisconsin2,democrat,democrat,1,0.683965491550782
+2016,Wisconsin3,democrat,democrat,1,0.5646439720745309
+2016,Wisconsin4,democrat,democrat,1,0.7024347566812611
+2016,Wisconsin5,republican,republican,1,0.6945370854440458
+2016,Wisconsin6,republican,republican,1,0.5677199506408992
+2016,Wisconsin7,republican,republican,1,0.5927746743753555
+2016,Wisconsin8,republican,republican,0,0
+2016,Wyoming0,republican,republican,0,0
+2018,Alabama1,republican,republican,1,0.9638246724071646
+2018,Alabama2,republican,republican,1,0.4876854771064125
+2018,Alabama3,republican,republican,1,0.6693184351315203
+2018,Alabama4,republican,republican,0,0
+2018,Alabama5,republican,republican,1,0.6669791065301013
+2018,Alabama6,republican,republican,0,0
+2018,Alabama7,democrat,democrat,0,0
+2018,Alaska0,republican,republican,1,0.5032089760478653
+2018,Arizona1,democrat,democrat,1,0.5066403049410424
+2018,Arizona2,democrat,republican,0,0
+2018,Arizona3,democrat,democrat,0,0
+2018,Arizona4,republican,republican,0,0
+2018,Arizona5,republican,republican,1,0.6409516312428933
+2018,Arizona6,republican,republican,1,0.6213029058943916
+2018,Arizona7,democrat,democrat,1,0.7522463809181984
+2018,Arizona8,republican,republican,0,0
+2018,Arizona9,democrat,democrat,0,0
+2018,Arkansas1,republican,republican,0,0
+2018,Arkansas2,republican,republican,0,0
+2018,Arkansas3,republican,republican,1,0.7731811596008643
+2018,Arkansas4,republican,republican,1,0.7490405842094701
+2018,California1,republican,republican,0,0
+2018,California10,democrat,republican,0,0
+2018,California11,democrat,democrat,1,0.7205282201409079
+2018,California12,democrat,democrat,1,0.8087326063539376
+2018,California13,democrat,democrat,1,0.9078455482220453
+2018,California14,democrat,democrat,1,0.8086312651205982
+2018,California15,democrat,democrat,1,0.7376679532089883
+2018,California16,democrat,democrat,1,0.5803484245873919
+2018,California17,democrat,democrat,1,0.6100895399499126
+2018,California18,democrat,democrat,1,0.7114500046306301
+2018,California19,democrat,democrat,1,0.7394443246848855
+2018,California2,democrat,democrat,1,0.7685009946608781
+2018,California20,democrat,democrat,1,0.7075307575325168
+2018,California21,democrat,republican,0,0
+2018,California22,republican,republican,0,0
+2018,California23,republican,republican,1,0.6917511093449897
+2018,California24,democrat,democrat,1,0.5341908665632822
+2018,California25,democrat,republican,0,0
+2018,California26,democrat,democrat,1,0.6037951246312079
+2018,California27,democrat,democrat,1,0.6742036132656644
+2018,California28,democrat,democrat,1,0.7798667943744476
+2018,California29,democrat,democrat,0,0
+2018,California3,democrat,democrat,1,0.5935143170691842
+2018,California30,democrat,democrat,1,0.7263839153019773
+2018,California31,democrat,democrat,1,0.5606753852993479
+2018,California32,democrat,democrat,0,0
+2018,California33,democrat,democrat,0,0
+2018,California34,democrat,democrat,0,0
+2018,California35,democrat,democrat,1,0.7239091232718423
+2018,California36,democrat,democrat,1,0.6205393414926682
+2018,California37,democrat,democrat,1,0.8112630230284231
+2018,California38,democrat,democrat,0,0
+2018,California39,democrat,republican,0,0
+2018,California4,republican,republican,1,0.6271988557687377
+2018,California40,democrat,democrat,1,0.7137048969503741
+2018,California41,democrat,democrat,1,0.6495137414290275
+2018,California42,republican,republican,1,0.588221180320647
+2018,California43,democrat,democrat,1,0.7608420342936278
+2018,California44,democrat,democrat,0,0
+2018,California45,democrat,republican,0,0
+2018,California46,democrat,democrat,1,0.7001998869939791
+2018,California47,democrat,democrat,0,0
+2018,California48,democrat,republican,0,0
+2018,California49,democrat,republican,0,0
+2018,California5,democrat,democrat,1,0.7686851015608149
+2018,California50,republican,republican,1,0.6345126470909751
+2018,California51,democrat,democrat,1,0.7275415488863495
+2018,California52,democrat,democrat,0,0
+2018,California53,democrat,democrat,1,0.670092538962001
+2018,California6,democrat,democrat,0,0
+2018,California7,democrat,democrat,1,0.5117137177473335
+2018,California8,republican,republican,1,0.6225801906302981
+2018,California9,democrat,democrat,1,0.5735952273265706
+2018,Colorado1,democrat,democrat,1,0.6787059804345761
+2018,Colorado2,democrat,democrat,0,0
+2018,Colorado3,republican,republican,1,0.5459887658172855
+2018,Colorado4,republican,republican,1,0.6354557858655054
+2018,Colorado5,republican,republican,1,0.6227882859613307
+2018,Colorado6,democrat,republican,0,0
+2018,Colorado7,democrat,democrat,1,0.5518024363967846
+2018,Connecticut1,democrat,democrat,0,0
+2018,Connecticut2,democrat,democrat,1,0.5638336204834417
+2018,Connecticut3,democrat,democrat,0,0
+2018,Connecticut4,democrat,democrat,0,0
+2018,Connecticut5,democrat,democrat,0,0
+2018,Delaware0,democrat,democrat,1,0.5552652413002803
+2018,Florida1,republican,republican,1,0.690998575243915
+2018,Florida10,democrat,democrat,1,0.6486867174963806
+2018,Florida11,republican,republican,1,0.6536700792209141
+2018,Florida12,republican,republican,0,0
+2018,Florida13,democrat,democrat,1,0.5190309182165118
+2018,Florida14,democrat,democrat,1,0.6178706564376714
+2018,Florida15,republican,republican,0,0
+2018,Florida16,republican,republican,1,0.5976792877206438
+2018,Florida17,republican,republican,0,0
+2018,Florida18,republican,republican,1,0.535989231694146
+2018,Florida19,republican,republican,1,0.6587208053617354
+2018,Florida2,republican,republican,1,0.6732340794846255
+2018,Florida20,democrat,democrat,1,0.8031200461161551
+2018,Florida21,democrat,democrat,1,0.6270629814119532
+2018,Florida22,democrat,democrat,0,0
+2018,Florida23,democrat,democrat,1,0.5670493934142115
+2018,Florida24,democrat,democrat,0,0
+2018,Florida25,republican,republican,1,0.6236021165692623
+2018,Florida26,democrat,republican,0,0
+2018,Florida27,democrat,republican,0,0
+2018,Florida3,republican,republican,0,0
+2018,Florida4,republican,republican,0,0
+2018,Florida5,democrat,democrat,1,0.6423430205299894
+2018,Florida6,republican,republican,0,0
+2018,Florida7,democrat,democrat,1,0.5147361128783702
+2018,Florida8,republican,republican,1,0.6310998794042416
+2018,Florida9,democrat,democrat,1,0.574848202118548
+2018,Georgia1,republican,republican,0,0
+2018,Georgia10,republican,republican,0,0
+2018,Georgia11,republican,republican,1,0.6740577388206038
+2018,Georgia12,republican,republican,1,0.6160085279940675
+2018,Georgia13,democrat,democrat,1,1.0
+2018,Georgia14,republican,republican,1,1.0
+2018,Georgia2,democrat,democrat,0,0
+2018,Georgia3,republican,republican,1,0.6834659797418755
+2018,Georgia4,democrat,democrat,0,0
+2018,Georgia5,democrat,democrat,0,0
+2018,Georgia6,democrat,republican,0,0
+2018,Georgia7,republican,republican,1,0.603816844201026
+2018,Georgia8,republican,republican,1,0.676429193493204
+2018,Georgia9,republican,republican,1,1.0
+2018,Hawaii1,democrat,democrat,0,0
+2018,Hawaii2,democrat,democrat,1,0.7622616928341654
+2018,Idaho1,republican,republican,0,0
+2018,Idaho2,republican,republican,0,0
+2018,Illinois1,democrat,democrat,1,0.7409469958399554
+2018,Illinois10,democrat,democrat,1,0.5260038601938488
+2018,Illinois11,democrat,democrat,1,0.6044786680843188
+2018,Illinois12,republican,republican,1,0.543050843125603
+2018,Illinois13,republican,republican,1,0.5966494271519177
+2018,Illinois14,democrat,republican,0,0
+2018,Illinois15,republican,republican,0,0
+2018,Illinois16,republican,republican,1,0.9994958688181395
+2018,Illinois17,democrat,democrat,1,0.6030801064556133
+2018,Illinois18,republican,republican,0,0
+2018,Illinois2,democrat,democrat,0,0
+2018,Illinois3,democrat,democrat,0,0
+2018,Illinois4,democrat,democrat,0,0
+2018,Illinois5,democrat,democrat,1,0.6784370975762135
+2018,Illinois6,democrat,republican,0,0
+2018,Illinois7,democrat,democrat,1,0.8423954334276859
+2018,Illinois8,democrat,democrat,1,0.5831492812918643
+2018,Illinois9,democrat,democrat,1,0.6646500360913662
+2018,Indiana1,democrat,democrat,1,0.8151172702026451
+2018,Indiana2,republican,republican,1,0.5925756335697314
+2018,Indiana3,republican,republican,1,0.7011248159249704
+2018,Indiana4,republican,republican,0,0
+2018,Indiana5,republican,republican,1,0.6146094950641727
+2018,Indiana6,republican,republican,0,0
+2018,Indiana7,democrat,democrat,0,0
+2018,Indiana8,republican,republican,0,0
+2018,Indiana9,republican,republican,1,0.5414117698076155
+2018,Iowa1,democrat,republican,0,0
+2018,Iowa2,democrat,democrat,0,0
+2018,Iowa3,democrat,republican,0,0
+2018,Iowa4,republican,republican,1,0.6123254262556751
+2018,Kansas1,republican,republican,1,0.6589577898290894
+2018,Kansas2,republican,republican,0,0
+2018,Kansas3,democrat,republican,0,0
+2018,Kansas4,republican,republican,0,0
+2018,Kentucky1,republican,republican,1,0.7256129578161946
+2018,Kentucky2,republican,republican,0,0
+2018,Kentucky3,democrat,democrat,1,0.6349919580022362
+2018,Kentucky4,republican,republican,1,0.7132050965434605
+2018,Kentucky5,republican,republican,0,0
+2018,Kentucky6,republican,republican,1,0.61089028404574
+2018,Louisiana1,republican,republican,1,0.745575112917243
+2018,Louisiana2,democrat,democrat,0,0
+2018,Louisiana3,republican,republican,1,0.2749970790566592
+2018,Louisiana4,republican,republican,1,0.32508436863979523
+2018,Louisiana5,republican,republican,0,0
+2018,Louisiana6,republican,republican,1,0.6266513237772502
+2018,Maine1,democrat,democrat,1,0.5591607649247313
+2018,Maine2,democrat,republican,0,0
+2018,Maryland1,republican,republican,1,0.6699144151981375
+2018,Maryland2,democrat,democrat,0,0
+2018,Maryland3,democrat,democrat,0,0
+2018,Maryland4,democrat,democrat,1,0.7406861063464837
+2018,Maryland5,democrat,democrat,1,0.6737828380019633
+2018,Maryland6,democrat,democrat,0,0
+2018,Maryland7,democrat,democrat,0,0
+2018,Maryland8,democrat,democrat,1,0.6056614442090008
+2018,Massachusetts1,democrat,democrat,1,0.674347109896018
+2018,Massachusetts2,democrat,democrat,1,0.7585057145295804
+2018,Massachusetts3,democrat,democrat,0,0
+2018,Massachusetts4,democrat,democrat,0,0
+2018,Massachusetts5,democrat,democrat,1,0.7409580884928202
+2018,Massachusetts6,democrat,democrat,0,0
+2018,Massachusetts7,democrat,democrat,0,0
+2018,Massachusetts8,democrat,democrat,1,0.6843758601445926
+2018,Massachusetts9,democrat,democrat,0,0
+2018,Michigan1,republican,republican,1,0.5489673051674989
+2018,Michigan10,republican,republican,1,0.6309170838428896
+2018,Michigan11,democrat,republican,0,0
+2018,Michigan12,democrat,democrat,1,0.6433819724723171
+2018,Michigan13,democrat,democrat,0,0
+2018,Michigan14,democrat,democrat,0,0
+2018,Michigan2,republican,republican,1,0.6262613164843456
+2018,Michigan3,republican,republican,1,0.5945263096402962
+2018,Michigan4,republican,republican,0,0
+2018,Michigan5,democrat,democrat,1,0.6116019555828383
+2018,Michigan6,republican,republican,1,0.5864063234870208
+2018,Michigan7,republican,republican,1,0.5505291108011481
+2018,Michigan8,democrat,republican,0,0
+2018,Michigan9,democrat,democrat,0,0
+2018,Minnesota1,republican,democrat,0,0
+2018,Minnesota2,democratic-farmer-labor,republican,0,0
+2018,Minnesota3,democratic-farmer-labor,republican,0,0
+2018,Minnesota4,democratic-farmer-labor,democrat,1,0.5776442341843185
+2018,Minnesota5,democratic-farmer-labor,democrat,0,0
+2018,Minnesota6,republican,republican,1,0.6557963948402196
+2018,Minnesota7,democratic-farmer-labor,democrat,1,0.5246672692043781
+2018,Minnesota8,republican,democrat,0,0
+2018,Mississippi1,republican,republican,1,0.6872143610842046
+2018,Mississippi2,democrat,democrat,1,0.6710591502515473
+2018,Mississippi3,republican,republican,0,0
+2018,Mississippi4,republican,republican,0,0
+2018,Missouri1,democrat,democrat,0,0
+2018,Missouri2,republican,republican,1,0.5854254577832837
+2018,Missouri3,republican,republican,1,0.6783671297440088
+2018,Missouri4,republican,republican,1,0.6782809706411745
+2018,Missouri5,democrat,democrat,0,0
+2018,Missouri6,republican,republican,1,0.6802456312563491
+2018,Missouri7,republican,republican,1,0.6753906446115999
+2018,Missouri8,republican,republican,1,0.7439740215170735
+2018,Montana0,republican,republican,0,0
+2018,Nebraska1,republican,republican,1,0.6945263835923261
+2018,Nebraska2,republican,republican,1,0.48928923234873817
+2018,Nebraska3,republican,republican,1,1.0
+2018,Nevada1,democrat,democrat,1,0.618719206591913
+2018,Nevada2,republican,republican,1,0.5830035489059667
+2018,Nevada3,democrat,democrat,0,0
+2018,Nevada4,democrat,democrat,0,0
+2018,New Hampshire1,democrat,democrat,0,0
+2018,New Hampshire2,democrat,democrat,0,0
+2018,New Jersey1,democrat,democrat,0,0
+2018,New Jersey10,democrat,democrat,0,0
+2018,New Jersey11,democrat,republican,0,0
+2018,New Jersey12,democrat,democrat,1,0.628581525392019
+2018,New Jersey2,democrat,republican,0,0
+2018,New Jersey3,democrat,republican,0,0
+2018,New Jersey4,republican,republican,1,0.6372172992990345
+2018,New Jersey5,democrat,democrat,0,0
+2018,New Jersey6,democrat,democrat,0,0
+2018,New Jersey7,democrat,republican,0,0
+2018,New Jersey8,democrat,democrat,1,0.7703915054691833
+2018,New Jersey9,democrat,democrat,0,0
+2018,New Mexico1,democrat,democrat,0,0
+2018,New Mexico2,democrat,republican,0,0
+2018,New Mexico3,democrat,democrat,0,0
+2018,New York1,democrat,republican,0,0
+2018,New York10,democrat,democrat,0,0
+2018,New York11,democrat,republican,0,0
+2018,New York12,democrat,democrat,1,0.7369872137667353
+2018,New York13,democrat,democrat,1,0.8117646597894522
+2018,New York14,democrat,democrat,0,0
+2018,New York15,democrat,democrat,0,0
+2018,New York16,democrat,democrat,1,0.6913818525782804
+2018,New York17,democrat,democrat,1,0.5953202220099456
+2018,New York18,democrat,democrat,1,0.44168236071984784
+2018,New York19,democrat,republican,0,0
+2018,New York2,republican,republican,1,0.4962053458961052
+2018,New York20,democrat,democrat,0,0
+2018,New York21,republican,republican,1,0.5287289812238619
+2018,New York22,democrat,republican,0,0
+2018,New York23,republican,republican,0,0
+2018,New York24,democrat,republican,0,0
+2018,New York25,democrat,democrat,0,0
+2018,New York26,democrat,democrat,1,0.6284107470907505
+2018,New York27,democrat,republican,0,0
+2018,New York3,democrat,democrat,1,0.48943487403338215
+2018,New York4,democrat,democrat,1,0.529930444461928
+2018,New York5,democrat,democrat,1,0.7938339565712819
+2018,New York6,democrat,democrat,1,0.6248894846419303
+2018,New York7,democrat,democrat,0,0
+2018,New York8,democrat,democrat,1,0.7889496199563668
+2018,New York9,democrat,democrat,1,0.7743183844455778
+2018,North Carolina1,democrat,democrat,1,0.6862323531005221
+2018,North Carolina10,republican,republican,0,0
+2018,North Carolina11,republican,republican,1,0.6408897715767103
+2018,North Carolina12,democrat,democrat,0,0
+2018,North Carolina13,republican,republican,1,0.5610337222778572
+2018,North Carolina2,republican,republican,1,0.5670858008997176
+2018,North Carolina3,republican,republican,1,0.6720121346551293
+2018,North Carolina4,democrat,democrat,0,0
+2018,North Carolina5,republican,republican,1,0.5840168545646842
+2018,North Carolina6,republican,republican,0,0
+2018,North Carolina7,republican,republican,1,0.60913817995663
+2018,North Carolina8,republican,republican,1,0.587729263724868
+2018,North Carolina9,republican,republican,0,0
+2018,North Dakota0,republican,republican,0,0
+2018,Ohio1,republican,republican,1,0.5919422302896378
+2018,Ohio10,republican,republican,0,0
+2018,Ohio11,democrat,democrat,1,0.8025379436115314
+2018,Ohio12,republican,republican,0,0
+2018,Ohio13,democrat,democrat,1,0.6772963987480682
+2018,Ohio14,republican,republican,1,0.6257790441061013
+2018,Ohio15,republican,republican,1,0.6616459871677252
+2018,Ohio16,republican,republican,0,0
+2018,Ohio2,republican,republican,0,0
+2018,Ohio3,democrat,democrat,1,0.6857398807623794
+2018,Ohio4,republican,republican,1,0.6798886186644588
+2018,Ohio5,republican,republican,0,0
+2018,Ohio6,republican,republican,1,0.706759591088504
+2018,Ohio7,republican,republican,1,0.6403459181464887
+2018,Ohio8,republican,republican,1,0.6876463106670845
+2018,Ohio9,democrat,democrat,1,0.6868533063265321
+2018,Oklahoma1,republican,republican,0,0
+2018,Oklahoma2,republican,republican,1,0.7060624093428051
+2018,Oklahoma3,republican,republican,1,0.7829086592226829
+2018,Oklahoma4,republican,republican,1,0.6962846491512301
+2018,Oklahoma5,democrat,republican,0,0
+2018,Oregon1,democrat,democrat,1,0.5961226675835438
+2018,Oregon2,republican,republican,1,0.716900553922766
+2018,Oregon3,democrat,democrat,1,0.7184082854938474
+2018,Oregon4,democrat,democrat,0,0
+2018,Oregon5,democrat,democrat,1,0.5347111292172776
+2018,Pennsylvania1,republican,democrat,0,0
+2018,Pennsylvania10,republican,republican,0,0
+2018,Pennsylvania11,republican,republican,0,0
+2018,Pennsylvania12,republican,republican,0,0
+2018,Pennsylvania13,republican,democrat,0,0
+2018,Pennsylvania14,republican,democrat,0,0
+2018,Pennsylvania15,republican,republican,0,0
+2018,Pennsylvania16,republican,republican,0,0
+2018,Pennsylvania17,democrat,democrat,0,0
+2018,Pennsylvania18,democrat,republican,0,0
+2018,Pennsylvania2,democrat,democrat,0,0
+2018,Pennsylvania3,democrat,republican,0,0
+2018,Pennsylvania4,democrat,republican,0,0
+2018,Pennsylvania5,democrat,republican,0,0
+2018,Pennsylvania6,democrat,republican,0,0
+2018,Pennsylvania7,democrat,republican,0,0
+2018,Pennsylvania8,democrat,republican,0,0
+2018,Pennsylvania9,republican,republican,0,0
+2018,Rhode Island1,democrat,democrat,1,0.6450232493786165
+2018,Rhode Island2,democrat,democrat,1,0.5808822245884756
+2018,South Carolina1,democrat,republican,0,0
+2018,South Carolina2,republican,republican,1,0.6024538026728219
+2018,South Carolina3,republican,republican,1,0.7283705572456778
+2018,South Carolina4,republican,republican,0,0
+2018,South Carolina5,republican,republican,0,0
+2018,South Carolina6,democrat,democrat,0,0
+2018,South Carolina7,republican,republican,1,0.6096392285024338
+2018,South Dakota0,republican,republican,0,0
+2018,Tennessee1,republican,republican,0,0
+2018,Tennessee2,republican,republican,0,0
+2018,Tennessee3,republican,republican,0,0
+2018,Tennessee4,republican,republican,1,0.6503410646551894
+2018,Tennessee5,democrat,democrat,1,0.6255337349749949
+2018,Tennessee6,republican,republican,0,0
+2018,Tennessee7,republican,republican,0,0
+2018,Tennessee8,republican,republican,1,0.6875249793975234
+2018,Tennessee9,democrat,democrat,1,0.7874534885321417
+2018,Texas1,republican,republican,1,0.7389683152272003
+2018,Texas10,republican,republican,1,0.5733237364043506
+2018,Texas11,republican,republican,0,0
+2018,Texas12,republican,republican,1,0.6940006711053812
+2018,Texas13,republican,republican,1,0.8996935482412923
+2018,Texas14,republican,republican,0,0
+2018,Texas15,democrat,democrat,1,0.5730931546830893
+2018,Texas16,democrat,democrat,0,0
+2018,Texas17,republican,republican,1,0.6080585037114208
+2018,Texas18,democrat,democrat,1,0.7349540889245648
+2018,Texas19,republican,republican,1,0.8665143137977639
+2018,Texas2,republican,republican,0,0
+2018,Texas20,democrat,democrat,1,0.7973613116710805
+2018,Texas21,republican,republican,0,0
+2018,Texas22,republican,republican,1,0.5952157306827517
+2018,Texas23,republican,republican,1,0.4829428078527286
+2018,Texas24,republican,republican,0,0
+2018,Texas25,republican,republican,1,0.5834633586506596
+2018,Texas26,republican,republican,1,0.6635639964899085
+2018,Texas27,republican,republican,0,0
+2018,Texas28,democrat,democrat,1,0.6619208206373819
+2018,Texas29,democrat,democrat,0,0
+2018,Texas3,republican,republican,0,0
+2018,Texas30,democrat,democrat,1,0.7791670094047325
+2018,Texas31,republican,republican,0,0
+2018,Texas32,democrat,republican,0,0
+2018,Texas33,democrat,democrat,0,0
+2018,Texas34,democrat,democrat,0,0
+2018,Texas35,democrat,democrat,1,0.630704134105357
+2018,Texas36,republican,republican,1,0.8861208336192895
+2018,Texas4,republican,republican,1,0.8798757209000081
+2018,Texas5,republican,republican,0,0
+2018,Texas6,republican,republican,0,0
+2018,Texas7,democrat,republican,0,0
+2018,Texas8,republican,republican,1,1.0
+2018,Texas9,democrat,democrat,1,0.8064374108199
+2018,Utah1,republican,republican,1,0.6593056071162116
+2018,Utah2,republican,republican,1,0.6160126291909154
+2018,Utah3,republican,republican,0,0
+2018,Utah4,democrat,republican,0,0
+2018,Vermont0,democrat,democrat,1,0.8250896348141931
+2018,Virginia1,republican,republican,0,0
+2018,Virginia10,democrat,republican,0,0
+2018,Virginia11,democrat,democrat,0,0
+2018,Virginia2,democrat,republican,0,0
+2018,Virginia3,democrat,democrat,1,0.6670199141960684
+2018,Virginia4,democrat,democrat,1,0.577333148712268
+2018,Virginia5,republican,republican,0,0
+2018,Virginia6,republican,republican,0,0
+2018,Virginia7,democrat,republican,0,0
+2018,Virginia8,democrat,democrat,0,0
+2018,Virginia9,republican,republican,1,0.68587946402676
+2018,Washington1,democrat,democrat,0,0
+2018,Washington10,democrat,democrat,1,0.5866521661320742
+2018,Washington2,democrat,democrat,1,0.6401625036876782
+2018,Washington3,republican,republican,1,0.6175269809146539
+2018,Washington4,republican,republican,1,0.5763638498775656
+2018,Washington5,republican,republican,1,0.5964102690907293
+2018,Washington6,democrat,democrat,1,0.6153053069541292
+2018,Washington7,democrat,democrat,1,0.5597564646181955
+2018,Washington8,democrat,republican,0,0
+2018,Washington9,democrat,democrat,1,0.7288743152315246
+2018,West Virginia1,republican,republican,0,0
+2018,West Virginia2,republican,republican,0,0
+2018,West Virginia3,republican,republican,0,0
+2018,Wisconsin1,republican,republican,0,0
+2018,Wisconsin2,democrat,democrat,1,0.6871753002059992
+2018,Wisconsin3,democrat,democrat,1,0.9885969965817875
+2018,Wisconsin4,democrat,democrat,0,0
+2018,Wisconsin5,republican,republican,0,0
+2018,Wisconsin6,republican,republican,1,0.5715473580769521
+2018,Wisconsin7,republican,republican,1,0.6167151110632648
+2018,Wisconsin8,republican,republican,1,0.6264555500577272
+2018,Wyoming0,republican,republican,1,0.6034901154613043
